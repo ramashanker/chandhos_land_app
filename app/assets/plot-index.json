@@ -1,0 +1,6203 @@
+{
+  "method": "Verified legacy labels registered onto the user-supplied aligned enhanced master",
+  "minimumConfidence": 0.65,
+  "imageWidth": 6328,
+  "imageHeight": 6705,
+  "count": 755,
+  "plots": [
+    {
+      "plot": 2,
+      "sheet": 1,
+      "x": 2908.0,
+      "y": 641.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3,
+      "sheet": 1,
+      "x": 2834.7,
+      "y": 552.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5,
+      "sheet": 1,
+      "x": 1795.3,
+      "y": 1317.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 7,
+      "sheet": 1,
+      "x": 2077.4,
+      "y": 564.9,
+      "confidence": 0.866,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 10,
+      "sheet": 1,
+      "x": 2726.7,
+      "y": 770.7,
+      "confidence": 0.989,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 11,
+      "sheet": 1,
+      "x": 2666.0,
+      "y": 699.3,
+      "confidence": 0.921,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 12,
+      "sheet": 1,
+      "x": 2641.2,
+      "y": 776.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 13,
+      "sheet": 1,
+      "x": 2646.0,
+      "y": 862.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 15,
+      "sheet": 1,
+      "x": 2722.4,
+      "y": 976.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 16,
+      "sheet": 1,
+      "x": 2782.4,
+      "y": 992.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 17,
+      "sheet": 1,
+      "x": 2831.2,
+      "y": 1002.5,
+      "confidence": 0.886,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 18,
+      "sheet": 1,
+      "x": 2776.4,
+      "y": 1072.9,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 19,
+      "sheet": 1,
+      "x": 2700.7,
+      "y": 1054.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 22,
+      "sheet": 1,
+      "x": 2658.7,
+      "y": 939.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 24,
+      "sheet": 1,
+      "x": 2578.7,
+      "y": 946.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 25,
+      "sheet": 1,
+      "x": 2578.7,
+      "y": 1055.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 27,
+      "sheet": 1,
+      "x": 2563.3,
+      "y": 1170.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 29,
+      "sheet": 1,
+      "x": 2681.3,
+      "y": 1160.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 30,
+      "sheet": 1,
+      "x": 2762.7,
+      "y": 1148.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 31,
+      "sheet": 1,
+      "x": 3108.8,
+      "y": 455.7,
+      "confidence": 0.739,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 32,
+      "sheet": 1,
+      "x": 2736.8,
+      "y": 1208.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 34,
+      "sheet": 1,
+      "x": 2476.4,
+      "y": 1165.7,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 35,
+      "sheet": 1,
+      "x": 2464.7,
+      "y": 1115.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 36,
+      "sheet": 1,
+      "x": 2397.3,
+      "y": 1090.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 37,
+      "sheet": 1,
+      "x": 2426.7,
+      "y": 995.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 38,
+      "sheet": 1,
+      "x": 2494.0,
+      "y": 1010.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 41,
+      "sheet": 1,
+      "x": 2410.5,
+      "y": 879.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 42,
+      "sheet": 1,
+      "x": 2449.3,
+      "y": 776.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 43,
+      "sheet": 1,
+      "x": 2517.3,
+      "y": 824.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 44,
+      "sheet": 1,
+      "x": 2568.0,
+      "y": 713.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 45,
+      "sheet": 1,
+      "x": 2489.2,
+      "y": 662.5,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 46,
+      "sheet": 1,
+      "x": 2438.7,
+      "y": 722.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 47,
+      "sheet": 1,
+      "x": 2306.0,
+      "y": 643.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 48,
+      "sheet": 1,
+      "x": 2229.0,
+      "y": 707.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 51"
+    },
+    {
+      "plot": 49,
+      "sheet": 1,
+      "x": 2254.0,
+      "y": 626.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 50"
+    },
+    {
+      "plot": 50,
+      "sheet": 1,
+      "x": 2218.7,
+      "y": 598.0,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 51,
+      "sheet": 1,
+      "x": 2198.4,
+      "y": 674.9,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 52,
+      "sheet": 1,
+      "x": 2214.7,
+      "y": 819.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 53,
+      "sheet": 1,
+      "x": 2311.3,
+      "y": 742.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 54,
+      "sheet": 1,
+      "x": 2380.7,
+      "y": 782.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 55,
+      "sheet": 1,
+      "x": 2362.7,
+      "y": 835.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 56,
+      "sheet": 1,
+      "x": 2290.7,
+      "y": 824.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 57,
+      "sheet": 1,
+      "x": 2277.2,
+      "y": 870.9,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 58,
+      "sheet": 1,
+      "x": 2270.0,
+      "y": 908.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 57"
+    },
+    {
+      "plot": 59,
+      "sheet": 1,
+      "x": 2316.0,
+      "y": 954.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 61,
+      "sheet": 1,
+      "x": 2330.7,
+      "y": 1082.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 62,
+      "sheet": 1,
+      "x": 2266.7,
+      "y": 1066.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 63,
+      "sheet": 1,
+      "x": 2627.2,
+      "y": 1879.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 64,
+      "sheet": 1,
+      "x": 2255.0,
+      "y": 944.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 58"
+    },
+    {
+      "plot": 65,
+      "sheet": 1,
+      "x": 2185.2,
+      "y": 1014.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 66,
+      "sheet": 1,
+      "x": 2154.7,
+      "y": 926.7,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 70,
+      "sheet": 1,
+      "x": 2130.0,
+      "y": 1026.5,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 71,
+      "sheet": 1,
+      "x": 2071.6,
+      "y": 964.5,
+      "confidence": 0.987,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 73,
+      "sheet": 1,
+      "x": 2117.3,
+      "y": 800.7,
+      "confidence": 0.966,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 74,
+      "sheet": 1,
+      "x": 2160.0,
+      "y": 694.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 75"
+    },
+    {
+      "plot": 75,
+      "sheet": 1,
+      "x": 2126.0,
+      "y": 693.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 76,
+      "sheet": 1,
+      "x": 2155.0,
+      "y": 641.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 77 and above Plot 75"
+    },
+    {
+      "plot": 77,
+      "sheet": 1,
+      "x": 2159.3,
+      "y": 592.8,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 78,
+      "sheet": 1,
+      "x": 2175.3,
+      "y": 533.3,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 80,
+      "sheet": 1,
+      "x": 2049.3,
+      "y": 675.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 81,
+      "sheet": 1,
+      "x": 2060.4,
+      "y": 751.3,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 82,
+      "sheet": 1,
+      "x": 2053.0,
+      "y": 791.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 81 and right of Plot 87"
+    },
+    {
+      "plot": 83,
+      "sheet": 1,
+      "x": 2055.3,
+      "y": 834.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 86,
+      "sheet": 1,
+      "x": 1934.0,
+      "y": 807.3,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 87,
+      "sheet": 1,
+      "x": 1953.2,
+      "y": 730.9,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 88,
+      "sheet": 1,
+      "x": 1955.3,
+      "y": 653.3,
+      "confidence": 0.894,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 89,
+      "sheet": 1,
+      "x": 1961.3,
+      "y": 610.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 92,
+      "sheet": 1,
+      "x": 1958.0,
+      "y": 548.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 93,
+      "sheet": 1,
+      "x": 1898.7,
+      "y": 620.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 94,
+      "sheet": 1,
+      "x": 1838.0,
+      "y": 814.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 95,
+      "sheet": 1,
+      "x": 1932.7,
+      "y": 920.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 99,
+      "sheet": 1,
+      "x": 1995.6,
+      "y": 1006.1,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 101,
+      "sheet": 1,
+      "x": 1855.3,
+      "y": 953.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 102,
+      "sheet": 1,
+      "x": 1760.7,
+      "y": 936.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 106,
+      "sheet": 1,
+      "x": 1708.7,
+      "y": 778.0,
+      "confidence": 0.95,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 107,
+      "sheet": 1,
+      "x": 1796.0,
+      "y": 740.7,
+      "confidence": 0.971,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 110,
+      "sheet": 1,
+      "x": 1731.3,
+      "y": 698.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 113,
+      "sheet": 1,
+      "x": 1663.2,
+      "y": 864.9,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 118,
+      "sheet": 1,
+      "x": 1520.0,
+      "y": 1272.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 122,
+      "sheet": 1,
+      "x": 1619.3,
+      "y": 1143.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 123,
+      "sheet": 1,
+      "x": 1619.2,
+      "y": 1203.3,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 125,
+      "sheet": 1,
+      "x": 1622.0,
+      "y": 1082.5,
+      "confidence": 0.741,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 127,
+      "sheet": 1,
+      "x": 1678.7,
+      "y": 1043.3,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 128,
+      "sheet": 1,
+      "x": 1748.7,
+      "y": 1066.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 130,
+      "sheet": 1,
+      "x": 1730.8,
+      "y": 1167.3,
+      "confidence": 0.858,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 133,
+      "sheet": 1,
+      "x": 1810.7,
+      "y": 1155.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 134,
+      "sheet": 1,
+      "x": 1796.7,
+      "y": 1196.7,
+      "confidence": 0.971,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 135,
+      "sheet": 1,
+      "x": 1726.7,
+      "y": 1247.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 136,
+      "sheet": 1,
+      "x": 1840.0,
+      "y": 1234.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 137,
+      "sheet": 1,
+      "x": 1863.3,
+      "y": 1156.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 138,
+      "sheet": 1,
+      "x": 1901.3,
+      "y": 1176.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 139,
+      "sheet": 1,
+      "x": 1912.7,
+      "y": 1086.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 140,
+      "sheet": 1,
+      "x": 2029.6,
+      "y": 1096.9,
+      "confidence": 0.689,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 141,
+      "sheet": 1,
+      "x": 2063.3,
+      "y": 1152.7,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 142,
+      "sheet": 1,
+      "x": 2074.7,
+      "y": 1214.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 143,
+      "sheet": 1,
+      "x": 1988.7,
+      "y": 1222.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 144,
+      "sheet": 1,
+      "x": 1901.3,
+      "y": 1202.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 145,
+      "sheet": 1,
+      "x": 1904.8,
+      "y": 1233.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 146,
+      "sheet": 1,
+      "x": 1901.3,
+      "y": 1268.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 147,
+      "sheet": 1,
+      "x": 1901.3,
+      "y": 1299.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 148,
+      "sheet": 1,
+      "x": 1901.3,
+      "y": 1330.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 149,
+      "sheet": 1,
+      "x": 1901.3,
+      "y": 1356.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 150,
+      "sheet": 1,
+      "x": 1904.0,
+      "y": 1390.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 151,
+      "sheet": 1,
+      "x": 1835.2,
+      "y": 1376.9,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 152,
+      "sheet": 1,
+      "x": 1826.7,
+      "y": 1338.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 153,
+      "sheet": 1,
+      "x": 1799.3,
+      "y": 1319.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 161,
+      "sheet": 1,
+      "x": 1598.4,
+      "y": 1312.5,
+      "confidence": 0.873,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 173,
+      "sheet": 1,
+      "x": 2052.7,
+      "y": 1442.0,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 175,
+      "sheet": 1,
+      "x": 1968.7,
+      "y": 1327.3,
+      "confidence": 0.911,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 176,
+      "sheet": 1,
+      "x": 2032.8,
+      "y": 1302.9,
+      "confidence": 0.963,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 178,
+      "sheet": 1,
+      "x": 2096.8,
+      "y": 1288.1,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 179,
+      "sheet": 1,
+      "x": 2064.8,
+      "y": 1354.1,
+      "confidence": 0.953,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 180,
+      "sheet": 1,
+      "x": 2042.0,
+      "y": 1396.0,
+      "confidence": 0.91,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 185,
+      "sheet": 1,
+      "x": 2177.3,
+      "y": 1366.0,
+      "confidence": 0.651,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 187,
+      "sheet": 1,
+      "x": 2918.7,
+      "y": 1210.0,
+      "confidence": 0.695,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 191,
+      "sheet": 1,
+      "x": 1996.0,
+      "y": 534.5,
+      "confidence": 0.651,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 194,
+      "sheet": 1,
+      "x": 2258.0,
+      "y": 1143.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 198,
+      "sheet": 1,
+      "x": 2216.7,
+      "y": 1253.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 199,
+      "sheet": 1,
+      "x": 2212.7,
+      "y": 1298.0,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 206,
+      "sheet": 1,
+      "x": 2292.7,
+      "y": 1273.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 209,
+      "sheet": 1,
+      "x": 2402.0,
+      "y": 1223.3,
+      "confidence": 0.968,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 210,
+      "sheet": 1,
+      "x": 2467.0,
+      "y": 1241.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 211,
+      "sheet": 1,
+      "x": 2373.3,
+      "y": 1290.0,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 212,
+      "sheet": 1,
+      "x": 2368.7,
+      "y": 1341.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 215,
+      "sheet": 1,
+      "x": 2534.3,
+      "y": 1257.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 218,
+      "sheet": 1,
+      "x": 2660.0,
+      "y": 1330.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 219,
+      "sheet": 1,
+      "x": 2744.0,
+      "y": 1307.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 220,
+      "sheet": 1,
+      "x": 2730.7,
+      "y": 1376.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 225,
+      "sheet": 1,
+      "x": 2505.3,
+      "y": 1345.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 229,
+      "sheet": 1,
+      "x": 2463.3,
+      "y": 1464.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 230,
+      "sheet": 1,
+      "x": 2526.0,
+      "y": 1543.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 234,
+      "sheet": 1,
+      "x": 2672.8,
+      "y": 1498.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 236,
+      "sheet": 1,
+      "x": 2597.3,
+      "y": 1604.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 237,
+      "sheet": 1,
+      "x": 2570.0,
+      "y": 1678.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 238,
+      "sheet": 1,
+      "x": 2558.7,
+      "y": 1727.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 241,
+      "sheet": 1,
+      "x": 2498.0,
+      "y": 1658.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 242,
+      "sheet": 1,
+      "x": 2425.3,
+      "y": 1661.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 244,
+      "sheet": 1,
+      "x": 2400.7,
+      "y": 1414.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 245,
+      "sheet": 1,
+      "x": 2324.0,
+      "y": 1368.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 246,
+      "sheet": 1,
+      "x": 2348.4,
+      "y": 1476.9,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 247,
+      "sheet": 1,
+      "x": 2362.0,
+      "y": 1607.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 248,
+      "sheet": 1,
+      "x": 2353.3,
+      "y": 1646.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 249,
+      "sheet": 1,
+      "x": 2294.7,
+      "y": 1640.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 250,
+      "sheet": 1,
+      "x": 2527.5,
+      "y": 1534.0,
+      "confidence": 0.85,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 251,
+      "sheet": 1,
+      "x": 2332.8,
+      "y": 1524.5,
+      "confidence": 0.915,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 252,
+      "sheet": 1,
+      "x": 2204.0,
+      "y": 1482.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 254,
+      "sheet": 1,
+      "x": 2228.8,
+      "y": 1532.5,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 255,
+      "sheet": 1,
+      "x": 2207.3,
+      "y": 1588.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 257,
+      "sheet": 1,
+      "x": 2204.7,
+      "y": 1650.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 258,
+      "sheet": 1,
+      "x": 2266.7,
+      "y": 1731.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 261,
+      "sheet": 1,
+      "x": 2232.8,
+      "y": 1798.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 262,
+      "sheet": 1,
+      "x": 2311.3,
+      "y": 1833.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 265,
+      "sheet": 1,
+      "x": 2242.7,
+      "y": 1918.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 274,
+      "sheet": 1,
+      "x": 1979.3,
+      "y": 1907.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 282,
+      "sheet": 1,
+      "x": 2072.0,
+      "y": 1670.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 283,
+      "sheet": 1,
+      "x": 2089.3,
+      "y": 1644.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 286,
+      "sheet": 1,
+      "x": 2130.8,
+      "y": 1536.1,
+      "confidence": 0.895,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 287,
+      "sheet": 1,
+      "x": 2073.6,
+      "y": 1527.3,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 289,
+      "sheet": 1,
+      "x": 2010.7,
+      "y": 1486.7,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 290,
+      "sheet": 1,
+      "x": 1973.3,
+      "y": 1528.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 293,
+      "sheet": 1,
+      "x": 1879.3,
+      "y": 1453.3,
+      "confidence": 0.711,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 294,
+      "sheet": 1,
+      "x": 1871.6,
+      "y": 1507.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 296,
+      "sheet": 1,
+      "x": 1845.3,
+      "y": 1538.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 298,
+      "sheet": 1,
+      "x": 1756.0,
+      "y": 1500.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 299,
+      "sheet": 1,
+      "x": 1752.0,
+      "y": 1570.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 302,
+      "sheet": 1,
+      "x": 1824.0,
+      "y": 1604.0,
+      "confidence": 0.941,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 312,
+      "sheet": 1,
+      "x": 1904.2,
+      "y": 1551.3,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 313,
+      "sheet": 1,
+      "x": 1925.3,
+      "y": 1599.3,
+      "confidence": 0.838,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 314,
+      "sheet": 1,
+      "x": 1992.0,
+      "y": 1581.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 315,
+      "sheet": 1,
+      "x": 1971.6,
+      "y": 1650.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 322,
+      "sheet": 1,
+      "x": 1961.6,
+      "y": 1704.5,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 329,
+      "sheet": 1,
+      "x": 1963.3,
+      "y": 1812.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 336,
+      "sheet": 1,
+      "x": 1609.1,
+      "y": 1698.0,
+      "confidence": 0.807,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 337,
+      "sheet": 1,
+      "x": 1904.0,
+      "y": 1799.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 356,
+      "sheet": 1,
+      "x": 1765.3,
+      "y": 1753.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 357,
+      "sheet": 1,
+      "x": 1780.0,
+      "y": 1698.0,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 362,
+      "sheet": 1,
+      "x": 1553.3,
+      "y": 1880.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 363,
+      "sheet": 1,
+      "x": 1635.2,
+      "y": 1761.3,
+      "confidence": 0.911,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 375,
+      "sheet": 1,
+      "x": 1671.3,
+      "y": 1602.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 378,
+      "sheet": 1,
+      "x": 1594.0,
+      "y": 1518.7,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 382,
+      "sheet": 1,
+      "x": 1586.7,
+      "y": 1447.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 383,
+      "sheet": 1,
+      "x": 1650.8,
+      "y": 1488.9,
+      "confidence": 0.856,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 393,
+      "sheet": 1,
+      "x": 1422.4,
+      "y": 1475.3,
+      "confidence": 0.761,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 394,
+      "sheet": 1,
+      "x": 1440.8,
+      "y": 1434.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 395,
+      "sheet": 1,
+      "x": 1476.4,
+      "y": 1470.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 396,
+      "sheet": 1,
+      "x": 1532.8,
+      "y": 1372.1,
+      "confidence": 0.917,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 399,
+      "sheet": 1,
+      "x": 1398.0,
+      "y": 1360.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 406,
+      "sheet": 1,
+      "x": 1307.3,
+      "y": 1631.3,
+      "confidence": 0.776,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 407,
+      "sheet": 1,
+      "x": 1273.3,
+      "y": 1666.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 425,
+      "sheet": 1,
+      "x": 1514.7,
+      "y": 1678.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 434,
+      "sheet": 1,
+      "x": 1452.4,
+      "y": 1796.9,
+      "confidence": 0.975,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 435,
+      "sheet": 1,
+      "x": 1397.3,
+      "y": 1737.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 442,
+      "sheet": 1,
+      "x": 1390.7,
+      "y": 1814.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 446,
+      "sheet": 1,
+      "x": 1394.0,
+      "y": 1921.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 450,
+      "sheet": 1,
+      "x": 1276.0,
+      "y": 1783.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 453,
+      "sheet": 1,
+      "x": 1265.3,
+      "y": 1867.3,
+      "confidence": 0.909,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 457,
+      "sheet": 1,
+      "x": 2555.2,
+      "y": 2113.1,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 459,
+      "sheet": 1,
+      "x": 1205.6,
+      "y": 1890.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 469,
+      "sheet": 1,
+      "x": 1495.6,
+      "y": 2098.5,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 475,
+      "sheet": 1,
+      "x": 1584.0,
+      "y": 2110.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 477,
+      "sheet": 1,
+      "x": 1550.7,
+      "y": 2264.7,
+      "confidence": 0.966,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 479,
+      "sheet": 1,
+      "x": 1377.6,
+      "y": 2358.1,
+      "confidence": 0.992,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 486,
+      "sheet": 1,
+      "x": 1517.6,
+      "y": 2360.9,
+      "confidence": 0.761,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 487,
+      "sheet": 1,
+      "x": 1452.4,
+      "y": 2328.9,
+      "confidence": 0.908,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 488,
+      "sheet": 1,
+      "x": 1484.0,
+      "y": 2278.9,
+      "confidence": 0.885,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 489,
+      "sheet": 1,
+      "x": 1548.8,
+      "y": 2334.5,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 493,
+      "sheet": 1,
+      "x": 1647.6,
+      "y": 2368.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 503,
+      "sheet": 1,
+      "x": 1750.0,
+      "y": 2379.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 508,
+      "sheet": 1,
+      "x": 1838.0,
+      "y": 2265.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 509,
+      "sheet": 1,
+      "x": 1882.0,
+      "y": 2373.3,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 520,
+      "sheet": 1,
+      "x": 1868.4,
+      "y": 2183.3,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 521,
+      "sheet": 1,
+      "x": 1918.7,
+      "y": 2129.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 522,
+      "sheet": 1,
+      "x": 2030.7,
+      "y": 2151.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 523,
+      "sheet": 1,
+      "x": 2132.0,
+      "y": 2154.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 528,
+      "sheet": 1,
+      "x": 1718.0,
+      "y": 2091.3,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 529,
+      "sheet": 1,
+      "x": 1800.0,
+      "y": 2067.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 533,
+      "sheet": 1,
+      "x": 1670.7,
+      "y": 2026.7,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 534,
+      "sheet": 1,
+      "x": 1691.3,
+      "y": 1939.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 535,
+      "sheet": 1,
+      "x": 1733.6,
+      "y": 1859.3,
+      "confidence": 0.989,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 536,
+      "sheet": 1,
+      "x": 1769.6,
+      "y": 1912.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 560,
+      "sheet": 1,
+      "x": 2292.0,
+      "y": 1990.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 265 and above Plot 561"
+    },
+    {
+      "plot": 561,
+      "sheet": 1,
+      "x": 2241.3,
+      "y": 2076.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 573,
+      "sheet": 1,
+      "x": 2174.0,
+      "y": 2387.3,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 579,
+      "sheet": 1,
+      "x": 2308.0,
+      "y": 2380.0,
+      "confidence": 0.923,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 580,
+      "sheet": 1,
+      "x": 2376.4,
+      "y": 2393.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 582,
+      "sheet": 1,
+      "x": 2434.4,
+      "y": 2366.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 585,
+      "sheet": 1,
+      "x": 2299.2,
+      "y": 2324.9,
+      "confidence": 0.895,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 586,
+      "sheet": 1,
+      "x": 2338.7,
+      "y": 2266.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 589,
+      "sheet": 1,
+      "x": 2397.6,
+      "y": 2309.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 591,
+      "sheet": 1,
+      "x": 2447.3,
+      "y": 2292.0,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 592,
+      "sheet": 1,
+      "x": 2450.0,
+      "y": 2242.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 593,
+      "sheet": 1,
+      "x": 2421.2,
+      "y": 2206.5,
+      "confidence": 0.988,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 598,
+      "sheet": 1,
+      "x": 2406.2,
+      "y": 2115.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 599,
+      "sheet": 1,
+      "x": 2338.7,
+      "y": 2085.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 605,
+      "sheet": 1,
+      "x": 2479.4,
+      "y": 2044.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 612,
+      "sheet": 1,
+      "x": 2406.0,
+      "y": 1858.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 614,
+      "sheet": 1,
+      "x": 2489.3,
+      "y": 1932.7,
+      "confidence": 0.942,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 615,
+      "sheet": 1,
+      "x": 2456.4,
+      "y": 1904.9,
+      "confidence": 0.975,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 616,
+      "sheet": 1,
+      "x": 2481.0,
+      "y": 1854.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 618; left of Plot 617"
+    },
+    {
+      "plot": 617,
+      "sheet": 1,
+      "x": 2518.0,
+      "y": 1868.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 618; right of Plot 616"
+    },
+    {
+      "plot": 618,
+      "sheet": 1,
+      "x": 2504.0,
+      "y": 1813.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "below Plot 625"
+    },
+    {
+      "plot": 621,
+      "sheet": 1,
+      "x": 2394.7,
+      "y": 1752.7,
+      "confidence": 0.974,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 623,
+      "sheet": 1,
+      "x": 2479.2,
+      "y": 1752.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 624,
+      "sheet": 1,
+      "x": 2541.0,
+      "y": 1763.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 623 and above Plot 625"
+    },
+    {
+      "plot": 625,
+      "sheet": 1,
+      "x": 2541.0,
+      "y": 1803.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 623 and below Plot 624"
+    },
+    {
+      "plot": 628,
+      "sheet": 1,
+      "x": 2571.2,
+      "y": 1838.5,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 632,
+      "sheet": 1,
+      "x": 2664.0,
+      "y": 1807.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 634,
+      "sheet": 1,
+      "x": 2656.0,
+      "y": 1698.5,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 635,
+      "sheet": 1,
+      "x": 2648.7,
+      "y": 1768.0,
+      "confidence": 0.827,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 636,
+      "sheet": 1,
+      "x": 2764.0,
+      "y": 1654.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 637,
+      "sheet": 1,
+      "x": 2777.3,
+      "y": 1608.0,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 638,
+      "sheet": 1,
+      "x": 2794.0,
+      "y": 1549.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 639,
+      "sheet": 1,
+      "x": 2714.8,
+      "y": 1522.1,
+      "confidence": 0.942,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 643,
+      "sheet": 1,
+      "x": 2761.2,
+      "y": 1772.5,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 645,
+      "sheet": 1,
+      "x": 2707.2,
+      "y": 1862.9,
+      "confidence": 0.765,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 654,
+      "sheet": 1,
+      "x": 2712.4,
+      "y": 2058.5,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 655,
+      "sheet": 1,
+      "x": 2567.3,
+      "y": 2000.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 656,
+      "sheet": 1,
+      "x": 2640.7,
+      "y": 2058.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 657,
+      "sheet": 1,
+      "x": 2555.2,
+      "y": 2122.5,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 661,
+      "sheet": 1,
+      "x": 2607.6,
+      "y": 2306.1,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 662,
+      "sheet": 1,
+      "x": 2554.4,
+      "y": 2198.9,
+      "confidence": 0.969,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 665,
+      "sheet": 1,
+      "x": 2233.3,
+      "y": 2154.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 666,
+      "sheet": 1,
+      "x": 2507.3,
+      "y": 2270.0,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 671,
+      "sheet": 1,
+      "x": 2481.0,
+      "y": 2381.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "leftmost in 671-672-673 run"
+    },
+    {
+      "plot": 672,
+      "sheet": 1,
+      "x": 2515.0,
+      "y": 2381.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "between Plots 671 and 673"
+    },
+    {
+      "plot": 673,
+      "sheet": 1,
+      "x": 2555.0,
+      "y": 2385.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 672 and below Plot 676"
+    },
+    {
+      "plot": 675,
+      "sheet": 1,
+      "x": 2797.2,
+      "y": 1548.6,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 676,
+      "sheet": 1,
+      "x": 2570.0,
+      "y": 2350.0,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "above Plot 673 at the Sheet 01/04 seam"
+    },
+    {
+      "plot": 682,
+      "sheet": 1,
+      "x": 2729.6,
+      "y": 2306.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 683,
+      "sheet": 1,
+      "x": 2801.6,
+      "y": 2312.5,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 686,
+      "sheet": 1,
+      "x": 2874.7,
+      "y": 2323.3,
+      "confidence": 0.946,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 687,
+      "sheet": 1,
+      "x": 2877.3,
+      "y": 2285.3,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 689,
+      "sheet": 1,
+      "x": 2914.4,
+      "y": 2376.3,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 694,
+      "sheet": 1,
+      "x": 2752.0,
+      "y": 2174.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 695,
+      "sheet": 1,
+      "x": 2820.6,
+      "y": 2213.9,
+      "confidence": 0.902,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 696,
+      "sheet": 1,
+      "x": 2836.7,
+      "y": 2126.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 702,
+      "sheet": 1,
+      "x": 2884.0,
+      "y": 2053.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 719,
+      "sheet": 1,
+      "x": 1596.0,
+      "y": 1277.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 739,
+      "sheet": 1,
+      "x": 3206.8,
+      "y": 2120.1,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 747,
+      "sheet": 1,
+      "x": 2978.4,
+      "y": 2006.5,
+      "confidence": 0.754,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 749,
+      "sheet": 1,
+      "x": 2863.6,
+      "y": 1984.5,
+      "confidence": 0.948,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 750,
+      "sheet": 1,
+      "x": 2796.0,
+      "y": 1976.9,
+      "confidence": 0.827,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 756,
+      "sheet": 1,
+      "x": 2873.3,
+      "y": 1848.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 757,
+      "sheet": 1,
+      "x": 2826.8,
+      "y": 1814.5,
+      "confidence": 0.929,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 758,
+      "sheet": 1,
+      "x": 2843.6,
+      "y": 1773.3,
+      "confidence": 0.84,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 759,
+      "sheet": 1,
+      "x": 2907.2,
+      "y": 1790.9,
+      "confidence": 0.692,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 763,
+      "sheet": 1,
+      "x": 2956.0,
+      "y": 1950.9,
+      "confidence": 0.98,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 776,
+      "sheet": 1,
+      "x": 3106.7,
+      "y": 1980.0,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 783,
+      "sheet": 1,
+      "x": 2121.3,
+      "y": 1402.0,
+      "confidence": 0.966,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 796,
+      "sheet": 1,
+      "x": 3065.6,
+      "y": 1762.9,
+      "confidence": 0.952,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 805,
+      "sheet": 1,
+      "x": 3170.0,
+      "y": 1706.0,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 808,
+      "sheet": 1,
+      "x": 2968.0,
+      "y": 1751.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 810,
+      "sheet": 1,
+      "x": 2913.3,
+      "y": 1705.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 811,
+      "sheet": 1,
+      "x": 2882.0,
+      "y": 1675.3,
+      "confidence": 0.853,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 812,
+      "sheet": 1,
+      "x": 2896.0,
+      "y": 1629.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 813,
+      "sheet": 1,
+      "x": 2890.7,
+      "y": 1555.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 816,
+      "sheet": 1,
+      "x": 2992.0,
+      "y": 1616.7,
+      "confidence": 0.937,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 817,
+      "sheet": 1,
+      "x": 2981.3,
+      "y": 1659.3,
+      "confidence": 0.908,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 818,
+      "sheet": 1,
+      "x": 2988.8,
+      "y": 1715.3,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 820,
+      "sheet": 1,
+      "x": 3061.3,
+      "y": 1608.7,
+      "confidence": 0.983,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 823,
+      "sheet": 1,
+      "x": 3152.4,
+      "y": 1622.9,
+      "confidence": 0.799,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 825,
+      "sheet": 1,
+      "x": 3206.0,
+      "y": 1661.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 826,
+      "sheet": 1,
+      "x": 3218.4,
+      "y": 1615.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 833,
+      "sheet": 1,
+      "x": 3158.4,
+      "y": 1527.3,
+      "confidence": 0.973,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 834,
+      "sheet": 1,
+      "x": 3218.7,
+      "y": 1528.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 836,
+      "sheet": 1,
+      "x": 3174.7,
+      "y": 1449.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 837,
+      "sheet": 1,
+      "x": 3236.0,
+      "y": 1472.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 838,
+      "sheet": 1,
+      "x": 3132.0,
+      "y": 1376.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 841,
+      "sheet": 1,
+      "x": 2985.3,
+      "y": 1420.0,
+      "confidence": 0.989,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 844,
+      "sheet": 1,
+      "x": 2892.7,
+      "y": 1447.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 845,
+      "sheet": 1,
+      "x": 2813.6,
+      "y": 1454.9,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 847,
+      "sheet": 1,
+      "x": 2823.3,
+      "y": 1345.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 849,
+      "sheet": 1,
+      "x": 2884.0,
+      "y": 1317.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 850,
+      "sheet": 1,
+      "x": 2975.3,
+      "y": 1373.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 854,
+      "sheet": 1,
+      "x": 3220.7,
+      "y": 1326.0,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 858,
+      "sheet": 1,
+      "x": 3134.7,
+      "y": 1255.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 859,
+      "sheet": 1,
+      "x": 3200.0,
+      "y": 1281.3,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 862,
+      "sheet": 1,
+      "x": 3042.7,
+      "y": 1298.7,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 865,
+      "sheet": 1,
+      "x": 2858.7,
+      "y": 1214.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 867,
+      "sheet": 1,
+      "x": 3142.6,
+      "y": 1210.5,
+      "confidence": 0.929,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 872,
+      "sheet": 1,
+      "x": 2979.2,
+      "y": 1227.3,
+      "confidence": 0.988,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 873,
+      "sheet": 1,
+      "x": 3032.0,
+      "y": 1101.3,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 874,
+      "sheet": 1,
+      "x": 3061.3,
+      "y": 1238.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 876,
+      "sheet": 1,
+      "x": 3161.3,
+      "y": 1158.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 877,
+      "sheet": 1,
+      "x": 3202.7,
+      "y": 1205.3,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 878,
+      "sheet": 1,
+      "x": 3228.7,
+      "y": 1162.7,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 882,
+      "sheet": 1,
+      "x": 3230.0,
+      "y": 1061.3,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 891,
+      "sheet": 1,
+      "x": 3207.2,
+      "y": 904.5,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 892,
+      "sheet": 1,
+      "x": 3222.4,
+      "y": 858.9,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 896,
+      "sheet": 1,
+      "x": 3071.3,
+      "y": 962.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 897,
+      "sheet": 1,
+      "x": 2989.4,
+      "y": 930.3,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 898,
+      "sheet": 1,
+      "x": 2935.6,
+      "y": 970.9,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 899,
+      "sheet": 1,
+      "x": 2928.0,
+      "y": 910.9,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 900,
+      "sheet": 1,
+      "x": 2974.7,
+      "y": 823.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 901,
+      "sheet": 1,
+      "x": 3052.4,
+      "y": 884.9,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 902,
+      "sheet": 1,
+      "x": 3070.0,
+      "y": 823.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 904,
+      "sheet": 1,
+      "x": 3002.0,
+      "y": 730.5,
+      "confidence": 0.713,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 907,
+      "sheet": 1,
+      "x": 3148.8,
+      "y": 756.5,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 910,
+      "sheet": 1,
+      "x": 3231.6,
+      "y": 706.5,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 911,
+      "sheet": 1,
+      "x": 3176.7,
+      "y": 677.3,
+      "confidence": 0.906,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 912,
+      "sheet": 1,
+      "x": 3084.7,
+      "y": 697.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 913,
+      "sheet": 1,
+      "x": 3094.4,
+      "y": 662.1,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 919,
+      "sheet": 1,
+      "x": 3014.0,
+      "y": 516.7,
+      "confidence": 0.992,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 921,
+      "sheet": 1,
+      "x": 3082.4,
+      "y": 529.3,
+      "confidence": 0.871,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 922,
+      "sheet": 1,
+      "x": 3062.7,
+      "y": 605.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 923,
+      "sheet": 1,
+      "x": 3137.2,
+      "y": 630.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 924,
+      "sheet": 2,
+      "x": 3295.8,
+      "y": 635.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 925,
+      "sheet": 2,
+      "x": 3343.0,
+      "y": 601.5,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 927,
+      "sheet": 1,
+      "x": 3222.0,
+      "y": 519.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 932,
+      "sheet": 1,
+      "x": 3116.0,
+      "y": 405.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 933,
+      "sheet": 1,
+      "x": 3201.6,
+      "y": 418.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 935,
+      "sheet": 2,
+      "x": 3337.8,
+      "y": 449.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 938,
+      "sheet": 2,
+      "x": 3384.2,
+      "y": 1640.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 945,
+      "sheet": 2,
+      "x": 3454.1,
+      "y": 628.8,
+      "confidence": 0.989,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 950,
+      "sheet": 2,
+      "x": 3348.9,
+      "y": 716.6,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 951,
+      "sheet": 2,
+      "x": 3384.2,
+      "y": 764.9,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 952,
+      "sheet": 2,
+      "x": 3399.7,
+      "y": 823.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 954,
+      "sheet": 2,
+      "x": 3384.2,
+      "y": 895.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 955,
+      "sheet": 2,
+      "x": 3295.9,
+      "y": 884.9,
+      "confidence": 0.97,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 957,
+      "sheet": 2,
+      "x": 3361.6,
+      "y": 986.2,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 958,
+      "sheet": 2,
+      "x": 3339.7,
+      "y": 1096.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 959,
+      "sheet": 2,
+      "x": 3333.0,
+      "y": 1173.4,
+      "confidence": 0.984,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 962,
+      "sheet": 2,
+      "x": 3327.9,
+      "y": 1313.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 980,
+      "sheet": 2,
+      "x": 3328.5,
+      "y": 1530.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 981,
+      "sheet": 2,
+      "x": 3384.2,
+      "y": 1541.0,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 982,
+      "sheet": 2,
+      "x": 3394.1,
+      "y": 1589.3,
+      "confidence": 0.985,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 984,
+      "sheet": 2,
+      "x": 3318.0,
+      "y": 1577.5,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 989,
+      "sheet": 2,
+      "x": 3413.9,
+      "y": 1667.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 990,
+      "sheet": 2,
+      "x": 3449.9,
+      "y": 1688.4,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 994,
+      "sheet": 2,
+      "x": 3321.7,
+      "y": 1791.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 997,
+      "sheet": 2,
+      "x": 3327.1,
+      "y": 1887.8,
+      "confidence": 0.972,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1012,
+      "sheet": 2,
+      "x": 3321.1,
+      "y": 2372.8,
+      "confidence": 0.838,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1025,
+      "sheet": 2,
+      "x": 3347.8,
+      "y": 2133.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1030,
+      "sheet": 2,
+      "x": 3400.9,
+      "y": 2048.5,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1032,
+      "sheet": 2,
+      "x": 3449.8,
+      "y": 1877.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1036,
+      "sheet": 2,
+      "x": 3559.7,
+      "y": 1805.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1037,
+      "sheet": 2,
+      "x": 3525.9,
+      "y": 1846.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1039,
+      "sheet": 2,
+      "x": 3566.8,
+      "y": 1904.5,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1041,
+      "sheet": 2,
+      "x": 3515.6,
+      "y": 1950.2,
+      "confidence": 0.864,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1049,
+      "sheet": 2,
+      "x": 3518.0,
+      "y": 2148.7,
+      "confidence": 0.945,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1050,
+      "sheet": 2,
+      "x": 3440.5,
+      "y": 2132.7,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1051,
+      "sheet": 2,
+      "x": 3410.9,
+      "y": 2013.0,
+      "confidence": 0.855,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1054,
+      "sheet": 2,
+      "x": 3557.5,
+      "y": 1744.5,
+      "confidence": 0.741,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1055,
+      "sheet": 2,
+      "x": 3576.0,
+      "y": 1771.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1076,
+      "sheet": 2,
+      "x": 3546.3,
+      "y": 2395.1,
+      "confidence": 0.763,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1081,
+      "sheet": 2,
+      "x": 3855.5,
+      "y": 1156.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1083,
+      "sheet": 2,
+      "x": 3659.5,
+      "y": 2014.5,
+      "confidence": 0.992,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1087,
+      "sheet": 2,
+      "x": 3392.2,
+      "y": 2371.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1088,
+      "sheet": 2,
+      "x": 3624.7,
+      "y": 1827.3,
+      "confidence": 0.939,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1089,
+      "sheet": 2,
+      "x": 3679.3,
+      "y": 1816.9,
+      "confidence": 0.987,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1094,
+      "sheet": 2,
+      "x": 3646.5,
+      "y": 1677.2,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1102,
+      "sheet": 2,
+      "x": 3782.8,
+      "y": 1461.2,
+      "confidence": 0.975,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1103,
+      "sheet": 2,
+      "x": 3775.7,
+      "y": 1351.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1106,
+      "sheet": 2,
+      "x": 3701.9,
+      "y": 1479.4,
+      "confidence": 0.845,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1108,
+      "sheet": 2,
+      "x": 3616.8,
+      "y": 1487.2,
+      "confidence": 0.924,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1110,
+      "sheet": 2,
+      "x": 3549.4,
+      "y": 1602.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1119,
+      "sheet": 2,
+      "x": 3597.0,
+      "y": 1427.8,
+      "confidence": 0.88,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1122,
+      "sheet": 2,
+      "x": 3673.7,
+      "y": 1344.2,
+      "confidence": 0.832,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1124,
+      "sheet": 2,
+      "x": 3725.6,
+      "y": 1183.9,
+      "confidence": 0.961,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1125,
+      "sheet": 2,
+      "x": 3708.9,
+      "y": 1112.7,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1126,
+      "sheet": 2,
+      "x": 3637.7,
+      "y": 1082.0,
+      "confidence": 0.808,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1127,
+      "sheet": 2,
+      "x": 3621.7,
+      "y": 1149.9,
+      "confidence": 0.901,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1128,
+      "sheet": 2,
+      "x": 3608.0,
+      "y": 1206.1,
+      "confidence": 0.93,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1134,
+      "sheet": 2,
+      "x": 3465.2,
+      "y": 1207.4,
+      "confidence": 0.812,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1136,
+      "sheet": 2,
+      "x": 3541.9,
+      "y": 1180.4,
+      "confidence": 0.976,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1138,
+      "sheet": 2,
+      "x": 3464.0,
+      "y": 1124.5,
+      "confidence": 0.907,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1139,
+      "sheet": 2,
+      "x": 3479.6,
+      "y": 1034.9,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1142,
+      "sheet": 2,
+      "x": 3572.9,
+      "y": 1019.3,
+      "confidence": 0.974,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1145,
+      "sheet": 2,
+      "x": 3593.6,
+      "y": 927.1,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1146,
+      "sheet": 2,
+      "x": 3517.8,
+      "y": 903.4,
+      "confidence": 0.977,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1147,
+      "sheet": 2,
+      "x": 3524.3,
+      "y": 852.8,
+      "confidence": 0.851,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1149,
+      "sheet": 2,
+      "x": 3610.0,
+      "y": 859.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1150,
+      "sheet": 2,
+      "x": 3621.4,
+      "y": 824.7,
+      "confidence": 0.879,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1156,
+      "sheet": 2,
+      "x": 3651.0,
+      "y": 743.8,
+      "confidence": 0.971,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1157,
+      "sheet": 2,
+      "x": 3595.7,
+      "y": 701.8,
+      "confidence": 0.774,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1158,
+      "sheet": 2,
+      "x": 3537.6,
+      "y": 673.3,
+      "confidence": 0.86,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1169,
+      "sheet": 2,
+      "x": 3723.2,
+      "y": 631.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1172,
+      "sheet": 2,
+      "x": 3869.1,
+      "y": 711.1,
+      "confidence": 0.661,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1174,
+      "sheet": 2,
+      "x": 3689.8,
+      "y": 819.4,
+      "confidence": 0.933,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1179,
+      "sheet": 2,
+      "x": 3678.9,
+      "y": 1034.9,
+      "confidence": 0.65,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1182,
+      "sheet": 2,
+      "x": 3857.4,
+      "y": 1224.8,
+      "confidence": 0.845,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1184,
+      "sheet": 2,
+      "x": 3840.1,
+      "y": 1328.1,
+      "confidence": 0.967,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1186,
+      "sheet": 2,
+      "x": 3810.4,
+      "y": 1414.8,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1191,
+      "sheet": 2,
+      "x": 3842.5,
+      "y": 1569.5,
+      "confidence": 0.672,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1192,
+      "sheet": 2,
+      "x": 3847.4,
+      "y": 1533.2,
+      "confidence": 0.931,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1196,
+      "sheet": 2,
+      "x": 3833.6,
+      "y": 1611.6,
+      "confidence": 0.883,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1201,
+      "sheet": 2,
+      "x": 3916.4,
+      "y": 1513.5,
+      "confidence": 0.985,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1202,
+      "sheet": 2,
+      "x": 3934.6,
+      "y": 1437.8,
+      "confidence": 0.957,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1203,
+      "sheet": 2,
+      "x": 3979.9,
+      "y": 1604.1,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1212,
+      "sheet": 2,
+      "x": 4145.0,
+      "y": 1539.2,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1213,
+      "sheet": 2,
+      "x": 4076.4,
+      "y": 1503.9,
+      "confidence": 0.988,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1214,
+      "sheet": 2,
+      "x": 4086.3,
+      "y": 1439.5,
+      "confidence": 0.952,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1215,
+      "sheet": 2,
+      "x": 4151.3,
+      "y": 1455.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1216,
+      "sheet": 2,
+      "x": 4142.0,
+      "y": 1498.7,
+      "confidence": 0.914,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1224,
+      "sheet": 2,
+      "x": 4328.2,
+      "y": 1537.1,
+      "confidence": 0.788,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1234,
+      "sheet": 2,
+      "x": 4274.5,
+      "y": 1682.5,
+      "confidence": 0.893,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1235,
+      "sheet": 2,
+      "x": 4335.5,
+      "y": 1726.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1239,
+      "sheet": 2,
+      "x": 4542.7,
+      "y": 1749.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1241,
+      "sheet": 2,
+      "x": 4442.5,
+      "y": 1706.3,
+      "confidence": 0.941,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1246,
+      "sheet": 2,
+      "x": 4320.9,
+      "y": 1626.8,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1265,
+      "sheet": 2,
+      "x": 4474.7,
+      "y": 1636.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1273,
+      "sheet": 2,
+      "x": 4533.5,
+      "y": 1603.5,
+      "confidence": 0.713,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1274,
+      "sheet": 2,
+      "x": 4626.0,
+      "y": 1601.2,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1285,
+      "sheet": 2,
+      "x": 4589.1,
+      "y": 1721.7,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1286,
+      "sheet": 2,
+      "x": 4532.2,
+      "y": 1693.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1291,
+      "sheet": 2,
+      "x": 4530.1,
+      "y": 1781.8,
+      "confidence": 0.838,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1292,
+      "sheet": 2,
+      "x": 4493.9,
+      "y": 1819.5,
+      "confidence": 0.74,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1293,
+      "sheet": 2,
+      "x": 4560.7,
+      "y": 1835.5,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1298,
+      "sheet": 2,
+      "x": 4497.6,
+      "y": 1930.3,
+      "confidence": 0.974,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1320,
+      "sheet": 2,
+      "x": 4406.0,
+      "y": 1882.6,
+      "confidence": 0.849,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1322,
+      "sheet": 2,
+      "x": 4355.3,
+      "y": 1921.6,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1323,
+      "sheet": 2,
+      "x": 4277.9,
+      "y": 1912.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1330,
+      "sheet": 2,
+      "x": 4290.1,
+      "y": 1776.8,
+      "confidence": 0.728,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1331,
+      "sheet": 2,
+      "x": 4221.1,
+      "y": 1752.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1339,
+      "sheet": 2,
+      "x": 3979.7,
+      "y": 1724.4,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1343,
+      "sheet": 2,
+      "x": 4116.1,
+      "y": 1827.7,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1344,
+      "sheet": 2,
+      "x": 3942.8,
+      "y": 1783.5,
+      "confidence": 0.938,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1345,
+      "sheet": 2,
+      "x": 4047.9,
+      "y": 1744.0,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1346,
+      "sheet": 2,
+      "x": 4035.5,
+      "y": 1783.1,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1347,
+      "sheet": 2,
+      "x": 4026.6,
+      "y": 1821.0,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1349,
+      "sheet": 2,
+      "x": 4199.8,
+      "y": 1860.7,
+      "confidence": 0.969,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1357,
+      "sheet": 2,
+      "x": 4152.8,
+      "y": 1936.5,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1358,
+      "sheet": 2,
+      "x": 4223.0,
+      "y": 1943.9,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1361,
+      "sheet": 2,
+      "x": 4334.3,
+      "y": 1997.1,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1362,
+      "sheet": 2,
+      "x": 4392.4,
+      "y": 1984.1,
+      "confidence": 0.872,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1365,
+      "sheet": 2,
+      "x": 4471.6,
+      "y": 1997.7,
+      "confidence": 0.701,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1367,
+      "sheet": 2,
+      "x": 4270.6,
+      "y": 2059.6,
+      "confidence": 0.7,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1368,
+      "sheet": 2,
+      "x": 4345.4,
+      "y": 2113.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1369,
+      "sheet": 2,
+      "x": 4273.7,
+      "y": 1992.8,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1377,
+      "sheet": 2,
+      "x": 4116.6,
+      "y": 2158.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1379,
+      "sheet": 2,
+      "x": 4146.3,
+      "y": 2089.3,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1386,
+      "sheet": 2,
+      "x": 4923.1,
+      "y": 1916.1,
+      "confidence": 0.855,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1391,
+      "sheet": 2,
+      "x": 3956.9,
+      "y": 1877.4,
+      "confidence": 0.96,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1416,
+      "sheet": 2,
+      "x": 3780.1,
+      "y": 2088.7,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1420,
+      "sheet": 2,
+      "x": 3806.9,
+      "y": 1953.9,
+      "confidence": 0.771,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1422,
+      "sheet": 2,
+      "x": 3835.1,
+      "y": 1832.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1431,
+      "sheet": 2,
+      "x": 3782.4,
+      "y": 1814.3,
+      "confidence": 0.956,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1436,
+      "sheet": 2,
+      "x": 3747.5,
+      "y": 1945.4,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1437,
+      "sheet": 2,
+      "x": 3733.7,
+      "y": 1990.9,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1440,
+      "sheet": 2,
+      "x": 3712.7,
+      "y": 2054.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1445,
+      "sheet": 2,
+      "x": 3806.1,
+      "y": 2139.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1453,
+      "sheet": 2,
+      "x": 3724.2,
+      "y": 2284.0,
+      "confidence": 0.92,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1456,
+      "sheet": 2,
+      "x": 3710.8,
+      "y": 2328.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1458,
+      "sheet": 2,
+      "x": 3674.1,
+      "y": 2379.9,
+      "confidence": 0.85,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1459,
+      "sheet": 2,
+      "x": 3607.6,
+      "y": 2388.0,
+      "confidence": 0.992,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1460,
+      "sheet": 2,
+      "x": 3736.2,
+      "y": 2393.2,
+      "confidence": 0.874,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1462,
+      "sheet": 2,
+      "x": 3827.1,
+      "y": 2260.2,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1467,
+      "sheet": 2,
+      "x": 3861.1,
+      "y": 2390.1,
+      "confidence": 0.792,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1477,
+      "sheet": 2,
+      "x": 3928.5,
+      "y": 2362.9,
+      "confidence": 0.711,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1478,
+      "sheet": 2,
+      "x": 3951.8,
+      "y": 2416.7,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 1492,
+      "sheet": 2,
+      "x": 4040.7,
+      "y": 2263.6,
+      "confidence": 0.939,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1493,
+      "sheet": 2,
+      "x": 3930.9,
+      "y": 2155.6,
+      "confidence": 0.885,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1495,
+      "sheet": 2,
+      "x": 3859.6,
+      "y": 2236.9,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1496,
+      "sheet": 2,
+      "x": 3862.8,
+      "y": 2186.9,
+      "confidence": 0.891,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1497,
+      "sheet": 2,
+      "x": 3867.9,
+      "y": 2125.2,
+      "confidence": 0.977,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1504,
+      "sheet": 2,
+      "x": 4055.6,
+      "y": 2155.9,
+      "confidence": 0.954,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1511,
+      "sheet": 2,
+      "x": 4133.9,
+      "y": 2333.2,
+      "confidence": 0.989,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1516,
+      "sheet": 2,
+      "x": 4197.5,
+      "y": 2341.2,
+      "confidence": 0.968,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1525,
+      "sheet": 2,
+      "x": 4316.8,
+      "y": 1851.8,
+      "confidence": 0.872,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1527,
+      "sheet": 2,
+      "x": 4274.2,
+      "y": 2233.2,
+      "confidence": 0.829,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1559,
+      "sheet": 2,
+      "x": 4346.4,
+      "y": 2356.7,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1580,
+      "sheet": 2,
+      "x": 4571.1,
+      "y": 2268.1,
+      "confidence": 0.782,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1585,
+      "sheet": 2,
+      "x": 4446.2,
+      "y": 2172.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1616,
+      "sheet": 2,
+      "x": 4824.2,
+      "y": 2246.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1625,
+      "sheet": 2,
+      "x": 4805.6,
+      "y": 2314.5,
+      "confidence": 0.967,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1632,
+      "sheet": 2,
+      "x": 3579.8,
+      "y": 2073.5,
+      "confidence": 0.974,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1634,
+      "sheet": 2,
+      "x": 3595.1,
+      "y": 1966.8,
+      "confidence": 0.975,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1641,
+      "sheet": 2,
+      "x": 4665.5,
+      "y": 2302.2,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1644,
+      "sheet": 2,
+      "x": 4555.1,
+      "y": 2328.9,
+      "confidence": 0.748,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1646,
+      "sheet": 2,
+      "x": 3512.2,
+      "y": 1889.7,
+      "confidence": 0.68,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1652,
+      "sheet": 2,
+      "x": 4456.1,
+      "y": 2423.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1678,
+      "sheet": 2,
+      "x": 3568.8,
+      "y": 2322.9,
+      "confidence": 0.829,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1685,
+      "sheet": 2,
+      "x": 3666.3,
+      "y": 1906.8,
+      "confidence": 0.845,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1691,
+      "sheet": 2,
+      "x": 3736.8,
+      "y": 1764.9,
+      "confidence": 0.857,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1695,
+      "sheet": 2,
+      "x": 3559.0,
+      "y": 1702.5,
+      "confidence": 0.865,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1696,
+      "sheet": 2,
+      "x": 3723.0,
+      "y": 1832.1,
+      "confidence": 0.705,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1697,
+      "sheet": 2,
+      "x": 3675.9,
+      "y": 1578.1,
+      "confidence": 0.788,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1710,
+      "sheet": 2,
+      "x": 4892.8,
+      "y": 2348.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1735,
+      "sheet": 2,
+      "x": 4666.1,
+      "y": 2154.3,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1739,
+      "sheet": 2,
+      "x": 4567.0,
+      "y": 2130.7,
+      "confidence": 0.837,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1756,
+      "sheet": 2,
+      "x": 4780.3,
+      "y": 2075.1,
+      "confidence": 0.958,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1780,
+      "sheet": 2,
+      "x": 4805.0,
+      "y": 1935.2,
+      "confidence": 0.956,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1785,
+      "sheet": 2,
+      "x": 4628.1,
+      "y": 1967.4,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1790,
+      "sheet": 2,
+      "x": 4653.6,
+      "y": 1919.4,
+      "confidence": 0.937,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1796,
+      "sheet": 2,
+      "x": 4678.7,
+      "y": 1813.2,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1805,
+      "sheet": 2,
+      "x": 4747.5,
+      "y": 1755.1,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1812,
+      "sheet": 2,
+      "x": 4691.2,
+      "y": 1669.1,
+      "confidence": 0.987,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1828,
+      "sheet": 2,
+      "x": 4815.5,
+      "y": 1649.9,
+      "confidence": 0.881,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1838,
+      "sheet": 2,
+      "x": 4860.9,
+      "y": 1667.3,
+      "confidence": 0.956,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1839,
+      "sheet": 2,
+      "x": 4914.5,
+      "y": 1682.7,
+      "confidence": 0.694,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1841,
+      "sheet": 2,
+      "x": 5004.8,
+      "y": 1693.3,
+      "confidence": 0.733,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1842,
+      "sheet": 2,
+      "x": 4997.1,
+      "y": 1726.3,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1846,
+      "sheet": 2,
+      "x": 4947.0,
+      "y": 1772.0,
+      "confidence": 0.792,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1853,
+      "sheet": 2,
+      "x": 4966.3,
+      "y": 1893.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1858,
+      "sheet": 2,
+      "x": 4907.1,
+      "y": 1838.1,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1874,
+      "sheet": 2,
+      "x": 4974.1,
+      "y": 2019.7,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1895,
+      "sheet": 2,
+      "x": 5017.2,
+      "y": 2253.6,
+      "confidence": 0.976,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1896,
+      "sheet": 2,
+      "x": 5079.1,
+      "y": 2294.1,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1898,
+      "sheet": 2,
+      "x": 5127.9,
+      "y": 2336.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1899,
+      "sheet": 2,
+      "x": 5138.4,
+      "y": 2270.7,
+      "confidence": 0.689,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1926,
+      "sheet": 2,
+      "x": 3630.1,
+      "y": 1622.3,
+      "confidence": 0.669,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1940,
+      "sheet": 2,
+      "x": 3459.9,
+      "y": 513.9,
+      "confidence": 0.869,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1947,
+      "sheet": 2,
+      "x": 5191.6,
+      "y": 2228.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 1971,
+      "sheet": 2,
+      "x": 4989.7,
+      "y": 2368.0,
+      "confidence": 0.851,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1972,
+      "sheet": 2,
+      "x": 4972.0,
+      "y": 2392.0,
+      "confidence": 0.985,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1986,
+      "sheet": 2,
+      "x": 3295.9,
+      "y": 1623.8,
+      "confidence": 0.819,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1989,
+      "sheet": 2,
+      "x": 5067.6,
+      "y": 2415.1,
+      "confidence": 0.712,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 1998,
+      "sheet": 2,
+      "x": 3297.6,
+      "y": 1850.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2032,
+      "sheet": 2,
+      "x": 5274.4,
+      "y": 2243.6,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2034,
+      "sheet": 2,
+      "x": 5257.2,
+      "y": 2209.4,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2036,
+      "sheet": 2,
+      "x": 5399.4,
+      "y": 2213.1,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2052,
+      "sheet": 2,
+      "x": 5479.8,
+      "y": 2414.9,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2101,
+      "sheet": 2,
+      "x": 5633.2,
+      "y": 2057.2,
+      "confidence": 0.988,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2103,
+      "sheet": 2,
+      "x": 5651.8,
+      "y": 2105.4,
+      "confidence": 0.96,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2104,
+      "sheet": 2,
+      "x": 5605.9,
+      "y": 2128.8,
+      "confidence": 0.771,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2105,
+      "sheet": 2,
+      "x": 5513.4,
+      "y": 2100.6,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2112,
+      "sheet": 2,
+      "x": 5622.1,
+      "y": 2162.4,
+      "confidence": 0.957,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2113,
+      "sheet": 2,
+      "x": 5710.6,
+      "y": 2139.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2116,
+      "sheet": 2,
+      "x": 5590.9,
+      "y": 2193.4,
+      "confidence": 0.922,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2127,
+      "sheet": 2,
+      "x": 5586.8,
+      "y": 2357.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2128,
+      "sheet": 2,
+      "x": 5624.3,
+      "y": 2391.7,
+      "confidence": 0.964,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2129,
+      "sheet": 2,
+      "x": 5621.5,
+      "y": 2432.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2134,
+      "sheet": 2,
+      "x": 5715.5,
+      "y": 2391.4,
+      "confidence": 0.786,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2136,
+      "sheet": 2,
+      "x": 5796.9,
+      "y": 2411.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2138,
+      "sheet": 2,
+      "x": 5698.8,
+      "y": 2328.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2142,
+      "sheet": 2,
+      "x": 5750.1,
+      "y": 2214.4,
+      "confidence": 0.684,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2145,
+      "sheet": 2,
+      "x": 5755.7,
+      "y": 2155.9,
+      "confidence": 0.952,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2148,
+      "sheet": 2,
+      "x": 5812.9,
+      "y": 2092.1,
+      "confidence": 0.985,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2149,
+      "sheet": 2,
+      "x": 5878.9,
+      "y": 2102.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2150,
+      "sheet": 2,
+      "x": 5861.5,
+      "y": 2164.8,
+      "confidence": 0.867,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2151,
+      "sheet": 2,
+      "x": 5843.2,
+      "y": 2216.2,
+      "confidence": 0.833,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2161,
+      "sheet": 2,
+      "x": 5806.0,
+      "y": 2375.0,
+      "confidence": 0.952,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2162,
+      "sheet": 2,
+      "x": 5585.3,
+      "y": 2092.1,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2163,
+      "sheet": 2,
+      "x": 5879.4,
+      "y": 2373.4,
+      "confidence": 0.972,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2167,
+      "sheet": 2,
+      "x": 5500.2,
+      "y": 2172.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2171,
+      "sheet": 2,
+      "x": 5895.5,
+      "y": 2424.8,
+      "confidence": 0.957,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2192,
+      "sheet": 3,
+      "x": 5703.9,
+      "y": 2527.2,
+      "confidence": 0.874,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2224,
+      "sheet": 3,
+      "x": 5568.8,
+      "y": 2677.1,
+      "confidence": 0.955,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2263,
+      "sheet": 3,
+      "x": 5338.1,
+      "y": 2716.2,
+      "confidence": 0.92,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2385,
+      "sheet": 3,
+      "x": 4223.5,
+      "y": 2590.8,
+      "confidence": 0.696,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2537,
+      "sheet": 3,
+      "x": 4574.1,
+      "y": 2572.0,
+      "confidence": 0.981,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2563,
+      "sheet": 3,
+      "x": 4597.6,
+      "y": 3603.2,
+      "confidence": 0.933,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2565,
+      "sheet": 3,
+      "x": 4213.3,
+      "y": 2509.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2595,
+      "sheet": 3,
+      "x": 4086.2,
+      "y": 2750.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2615,
+      "sheet": 3,
+      "x": 3848.0,
+      "y": 2523.0,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2619,
+      "sheet": 3,
+      "x": 3888.5,
+      "y": 2783.4,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "corrected from the erroneous OCR label 2614"
+    },
+    {
+      "plot": 2623,
+      "sheet": 3,
+      "x": 3813.0,
+      "y": 2726.0,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2630,
+      "sheet": 3,
+      "x": 3724.5,
+      "y": 2542.0,
+      "confidence": 0.996,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2633,
+      "sheet": 3,
+      "x": 3702.0,
+      "y": 2721.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2634,
+      "sheet": 3,
+      "x": 3747.4,
+      "y": 2670.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2641,
+      "sheet": 3,
+      "x": 3639.3,
+      "y": 2891.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2643,
+      "sheet": 3,
+      "x": 3751.7,
+      "y": 2977.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2665,
+      "sheet": 3,
+      "x": 3450.6,
+      "y": 3070.3,
+      "confidence": 0.894,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2672,
+      "sheet": 3,
+      "x": 3507.9,
+      "y": 2906.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2673,
+      "sheet": 3,
+      "x": 3583.8,
+      "y": 2884.3,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "leftmost parcel in the 2673-2641-2643 run"
+    },
+    {
+      "plot": 2685,
+      "sheet": 3,
+      "x": 3578.4,
+      "y": 2673.5,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "parcel directly below Plot 2686"
+    },
+    {
+      "plot": 2686,
+      "sheet": 3,
+      "x": 3613.9,
+      "y": 2559.4,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "corrected from the erroneous OCR label 2636"
+    },
+    {
+      "plot": 2761,
+      "sheet": 3,
+      "x": 3342.5,
+      "y": 3149.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2766,
+      "sheet": 3,
+      "x": 3502.4,
+      "y": 3227.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2769,
+      "sheet": 3,
+      "x": 3675.5,
+      "y": 3048.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2782,
+      "sheet": 3,
+      "x": 3683.0,
+      "y": 3382.5,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2783,
+      "sheet": 3,
+      "x": 3737.4,
+      "y": 3334.6,
+      "confidence": 0.836,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2785,
+      "sheet": 3,
+      "x": 3744.2,
+      "y": 3246.0,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "above Plot 2783; Plot 2783 is above Plot 2782"
+    },
+    {
+      "plot": 2790,
+      "sheet": 3,
+      "x": 3890.5,
+      "y": 3054.5,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2791,
+      "sheet": 3,
+      "x": 3902.6,
+      "y": 3016.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2792,
+      "sheet": 3,
+      "x": 3944.7,
+      "y": 2999.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2800,
+      "sheet": 3,
+      "x": 4070.6,
+      "y": 3009.5,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "first parcel right of Plot 2802"
+    },
+    {
+      "plot": 2801,
+      "sheet": 3,
+      "x": 3929.0,
+      "y": 3116.2,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "above Plot 2819; corrected from the erroneous OCR label 3803"
+    },
+    {
+      "plot": 2802,
+      "sheet": 3,
+      "x": 4005.5,
+      "y": 3021.2,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "corrected from the erroneous OCR label 3027"
+    },
+    {
+      "plot": 2803,
+      "sheet": 3,
+      "x": 4132.7,
+      "y": 3060.8,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "parcel below and right of Plot 2800"
+    },
+    {
+      "plot": 2817,
+      "sheet": 3,
+      "x": 4042.2,
+      "y": 3189.7,
+      "confidence": 0.885,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2819,
+      "sheet": 3,
+      "x": 3927.7,
+      "y": 3174.2,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2820,
+      "sheet": 3,
+      "x": 3881.1,
+      "y": 3259.0,
+      "confidence": 0.981,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2823,
+      "sheet": 3,
+      "x": 3863.6,
+      "y": 3365.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2824,
+      "sheet": 3,
+      "x": 3838.7,
+      "y": 3456.2,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2868,
+      "sheet": 3,
+      "x": 4022.1,
+      "y": 2819.4,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2887,
+      "sheet": 3,
+      "x": 4165.9,
+      "y": 3233.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2893,
+      "sheet": 3,
+      "x": 4282.7,
+      "y": 3110.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 2895,
+      "sheet": 3,
+      "x": 4388.9,
+      "y": 3044.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2914,
+      "sheet": 3,
+      "x": 4622.5,
+      "y": 3053.9,
+      "confidence": 0.875,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2918,
+      "sheet": 3,
+      "x": 4599.9,
+      "y": 3147.5,
+      "confidence": 0.751,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2919,
+      "sheet": 3,
+      "x": 4641.9,
+      "y": 3053.0,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 2934,
+      "sheet": 3,
+      "x": 4487.9,
+      "y": 3361.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 2954,
+      "sheet": 3,
+      "x": 4487.7,
+      "y": 3401.5,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 3292,
+      "sheet": 3,
+      "x": 4784.8,
+      "y": 4488.1,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3314,
+      "sheet": 3,
+      "x": 4648.8,
+      "y": 4442.8,
+      "confidence": 0.965,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3344,
+      "sheet": 3,
+      "x": 3276.7,
+      "y": 4280.5,
+      "confidence": 0.665,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3353,
+      "sheet": 3,
+      "x": 4284.9,
+      "y": 4494.8,
+      "confidence": 0.9,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3356,
+      "sheet": 3,
+      "x": 4260.3,
+      "y": 4395.4,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3375,
+      "sheet": 3,
+      "x": 4071.0,
+      "y": 4463.8,
+      "confidence": 0.986,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3385,
+      "sheet": 3,
+      "x": 4019.3,
+      "y": 4624.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 3420,
+      "sheet": 3,
+      "x": 4142.8,
+      "y": 4812.7,
+      "confidence": 0.978,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3477,
+      "sheet": 3,
+      "x": 3558.6,
+      "y": 4650.7,
+      "confidence": 0.9,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3483,
+      "sheet": 3,
+      "x": 3502.0,
+      "y": 4517.4,
+      "confidence": 0.934,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3514,
+      "sheet": 3,
+      "x": 3577.7,
+      "y": 4362.6,
+      "confidence": 0.979,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3515,
+      "sheet": 3,
+      "x": 3569.6,
+      "y": 4407.4,
+      "confidence": 0.734,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3518,
+      "sheet": 3,
+      "x": 3365.0,
+      "y": 4864.5,
+      "confidence": 0.977,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3631,
+      "sheet": 3,
+      "x": 4228.5,
+      "y": 3790.8,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 3680,
+      "sheet": 3,
+      "x": 3958.5,
+      "y": 3647.0,
+      "confidence": 0.725,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3693,
+      "sheet": 3,
+      "x": 3695.0,
+      "y": 3807.4,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 3697,
+      "sheet": 3,
+      "x": 3569.3,
+      "y": 3843.0,
+      "confidence": 0.96,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 3699,
+      "sheet": 3,
+      "x": 3653.5,
+      "y": 3568.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3700,
+      "sheet": 3,
+      "x": 3543.8,
+      "y": 3428.6,
+      "confidence": 0.847,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3795,
+      "sheet": 3,
+      "x": 3426.8,
+      "y": 3690.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 3827,
+      "sheet": 3,
+      "x": 3425.9,
+      "y": 4232.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 3975,
+      "sheet": 4,
+      "x": 1264.3,
+      "y": 4423.0,
+      "confidence": 0.682,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4042,
+      "sheet": 4,
+      "x": 1195.9,
+      "y": 3523.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4144,
+      "sheet": 4,
+      "x": 2925.2,
+      "y": 2892.9,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4167,
+      "sheet": 4,
+      "x": 2754.4,
+      "y": 2472.7,
+      "confidence": 0.991,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4170,
+      "sheet": 4,
+      "x": 2731.3,
+      "y": 2686.2,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4178,
+      "sheet": 4,
+      "x": 2712.7,
+      "y": 2766.7,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4206,
+      "sheet": 4,
+      "x": 2506.3,
+      "y": 2608.2,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "right of Plot 4207"
+    },
+    {
+      "plot": 4207,
+      "sheet": 4,
+      "x": 2411.3,
+      "y": 2538.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 4208,
+      "sheet": 4,
+      "x": 2341.3,
+      "y": 2543.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 4209,
+      "sheet": 4,
+      "x": 2331.3,
+      "y": 2488.2,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "left of Plot 4208"
+    },
+    {
+      "plot": 4316,
+      "sheet": 4,
+      "x": 2197.1,
+      "y": 2913.6,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4324,
+      "sheet": 4,
+      "x": 2005.8,
+      "y": 2833.6,
+      "confidence": 0.675,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4329,
+      "sheet": 4,
+      "x": 1766.5,
+      "y": 2663.8,
+      "confidence": 0.84,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4378,
+      "sheet": 4,
+      "x": 2153.0,
+      "y": 3115.2,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4383,
+      "sheet": 4,
+      "x": 2058.7,
+      "y": 3034.2,
+      "confidence": 0.955,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4385,
+      "sheet": 4,
+      "x": 2235.5,
+      "y": 3401.4,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4534,
+      "sheet": 4,
+      "x": 1669.2,
+      "y": 2692.6,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4547,
+      "sheet": 4,
+      "x": 1632.9,
+      "y": 2478.1,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4668,
+      "sheet": 4,
+      "x": 1239.7,
+      "y": 2900.8,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4805,
+      "sheet": 4,
+      "x": 1358.3,
+      "y": 2463.1,
+      "confidence": 0.651,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4839,
+      "sheet": 4,
+      "x": 1422.4,
+      "y": 3740.9,
+      "confidence": 0.978,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4858,
+      "sheet": 4,
+      "x": 902.3,
+      "y": 3288.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4862,
+      "sheet": 4,
+      "x": 973.8,
+      "y": 3352.1,
+      "confidence": 0.878,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4872,
+      "sheet": 4,
+      "x": 1450.2,
+      "y": 3657.6,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4882,
+      "sheet": 4,
+      "x": 1598.7,
+      "y": 3755.8,
+      "confidence": 0.997,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4883,
+      "sheet": 4,
+      "x": 1559.2,
+      "y": 3826.3,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 4891,
+      "sheet": 4,
+      "x": 1333.8,
+      "y": 3778.1,
+      "confidence": 0.966,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4894,
+      "sheet": 4,
+      "x": 1288.2,
+      "y": 3632.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4918,
+      "sheet": 4,
+      "x": 1168.1,
+      "y": 4029.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4926,
+      "sheet": 4,
+      "x": 1110.4,
+      "y": 4150.5,
+      "confidence": 0.995,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4930,
+      "sheet": 4,
+      "x": 1463.0,
+      "y": 4138.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4935,
+      "sheet": 4,
+      "x": 1618.4,
+      "y": 4064.3,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4937,
+      "sheet": 4,
+      "x": 1688.5,
+      "y": 3869.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4940,
+      "sheet": 4,
+      "x": 1667.1,
+      "y": 4101.7,
+      "confidence": 0.659,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 4954,
+      "sheet": 4,
+      "x": 1664.5,
+      "y": 4262.3,
+      "confidence": 0.988,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5068,
+      "sheet": 4,
+      "x": 1926.7,
+      "y": 3189.4,
+      "confidence": 0.987,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5069,
+      "sheet": 4,
+      "x": 1991.5,
+      "y": 3289.4,
+      "confidence": 0.837,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5083,
+      "sheet": 4,
+      "x": 2115.3,
+      "y": 3727.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5280,
+      "sheet": 4,
+      "x": 2614.8,
+      "y": 4140.1,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 5675,
+      "sheet": 4,
+      "x": 1999.2,
+      "y": 3458.4,
+      "confidence": 0.682,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5758,
+      "sheet": 4,
+      "x": 2868.5,
+      "y": 3986.8,
+      "confidence": 0.872,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5767,
+      "sheet": 4,
+      "x": 3031.3,
+      "y": 4156.6,
+      "confidence": 0.981,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5774,
+      "sheet": 4,
+      "x": 2845.6,
+      "y": 4330.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5775,
+      "sheet": 4,
+      "x": 2829.6,
+      "y": 4387.8,
+      "confidence": 0.984,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5781,
+      "sheet": 4,
+      "x": 2628.7,
+      "y": 4262.9,
+      "confidence": 0.964,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5788,
+      "sheet": 4,
+      "x": 2503.7,
+      "y": 4134.8,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5796,
+      "sheet": 4,
+      "x": 2641.7,
+      "y": 3939.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5812,
+      "sheet": 4,
+      "x": 2460.7,
+      "y": 3839.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5843,
+      "sheet": 4,
+      "x": 2311.1,
+      "y": 3717.5,
+      "confidence": 0.733,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5844,
+      "sheet": 4,
+      "x": 2214.7,
+      "y": 3703.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5845,
+      "sheet": 4,
+      "x": 2114.7,
+      "y": 3865.0,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5847,
+      "sheet": 4,
+      "x": 2175.5,
+      "y": 3885.0,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5864,
+      "sheet": 4,
+      "x": 2250.6,
+      "y": 3966.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5865,
+      "sheet": 4,
+      "x": 2277.4,
+      "y": 3987.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5866,
+      "sheet": 4,
+      "x": 2331.7,
+      "y": 4016.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5870,
+      "sheet": 4,
+      "x": 2120.1,
+      "y": 4103.6,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5876,
+      "sheet": 4,
+      "x": 2490.9,
+      "y": 4240.5,
+      "confidence": 0.992,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5879,
+      "sheet": 4,
+      "x": 2261.3,
+      "y": 4153.2,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "slightly higher in the adjacent plot right of Plot 5870"
+    },
+    {
+      "plot": 5881,
+      "sheet": 4,
+      "x": 2221.3,
+      "y": 4248.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5882,
+      "sheet": 4,
+      "x": 2075.3,
+      "y": 4246.2,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "inner parcel at the centre of Plot 5870"
+    },
+    {
+      "plot": 5883,
+      "sheet": 4,
+      "x": 2112.0,
+      "y": 4410.2,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5890,
+      "sheet": 4,
+      "x": 2398.6,
+      "y": 4322.5,
+      "confidence": 0.982,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5891,
+      "sheet": 4,
+      "x": 2341.3,
+      "y": 4322.2,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "immediately left of Plot 5890"
+    },
+    {
+      "plot": 5892,
+      "sheet": 4,
+      "x": 2286.3,
+      "y": 4322.2,
+      "confidence": 1.0,
+      "source": "user-guided-enhanced-audit",
+      "basis": "left of Plot 5891"
+    },
+    {
+      "plot": 5894,
+      "sheet": 4,
+      "x": 2313.5,
+      "y": 4444.4,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5900,
+      "sheet": 4,
+      "x": 2354.1,
+      "y": 4504.1,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 5902,
+      "sheet": 4,
+      "x": 1701.3,
+      "y": 4557.5,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 5903,
+      "sheet": 4,
+      "x": 2302.9,
+      "y": 4533.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5906,
+      "sheet": 4,
+      "x": 2099.3,
+      "y": 4606.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5907,
+      "sheet": 4,
+      "x": 2003.7,
+      "y": 4585.1,
+      "confidence": 0.975,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5908,
+      "sheet": 4,
+      "x": 1944.9,
+      "y": 4567.5,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5909,
+      "sheet": 4,
+      "x": 1924.9,
+      "y": 4601.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5910,
+      "sheet": 4,
+      "x": 1889.3,
+      "y": 4561.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    {
+      "plot": 5912,
+      "sheet": 4,
+      "x": 1849.3,
+      "y": 4494.6,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "below Plot 5917, above Plot 5910, and above-left of Plot 5908"
+    },
+    {
+      "plot": 5917,
+      "sheet": 4,
+      "x": 1817.2,
+      "y": 4409.1,
+      "confidence": 1.0,
+      "source": "user-guided-clear-sheet-audit",
+      "basis": "parcel directly above Plot 5912"
+    },
+    {
+      "plot": 5944,
+      "sheet": 4,
+      "x": 1856.2,
+      "y": 4185.0,
+      "confidence": 0.732,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5951,
+      "sheet": 4,
+      "x": 1829.5,
+      "y": 4285.3,
+      "confidence": 0.987,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5962,
+      "sheet": 4,
+      "x": 1613.7,
+      "y": 4642.9,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5967,
+      "sheet": 4,
+      "x": 1470.9,
+      "y": 4662.6,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5971,
+      "sheet": 4,
+      "x": 1310.2,
+      "y": 4506.3,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5972,
+      "sheet": 4,
+      "x": 1334.4,
+      "y": 4704.8,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5973,
+      "sheet": 4,
+      "x": 1195.3,
+      "y": 4644.0,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5996,
+      "sheet": 4,
+      "x": 760.6,
+      "y": 4105.3,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 5998,
+      "sheet": 4,
+      "x": 835.9,
+      "y": 4067.5,
+      "confidence": 0.984,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6035,
+      "sheet": 4,
+      "x": 994.0,
+      "y": 3643.8,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 6049,
+      "sheet": 4,
+      "x": 894.6,
+      "y": 3432.4,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 6118,
+      "sheet": 4,
+      "x": 538.8,
+      "y": 4236.2,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6152,
+      "sheet": 4,
+      "x": 1781.2,
+      "y": 4715.1,
+      "confidence": 0.999,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6153,
+      "sheet": 4,
+      "x": 1804.9,
+      "y": 4657.9,
+      "confidence": 0.993,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6159,
+      "sheet": 4,
+      "x": 1814.3,
+      "y": 4780.4,
+      "confidence": 0.99,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6174,
+      "sheet": 4,
+      "x": 2222.7,
+      "y": 4735.8,
+      "confidence": 0.994,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6176,
+      "sheet": 4,
+      "x": 2369.1,
+      "y": 4735.2,
+      "confidence": 0.92,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6178,
+      "sheet": 4,
+      "x": 2571.0,
+      "y": 4694.2,
+      "confidence": 0.998,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6181,
+      "sheet": 4,
+      "x": 2580.6,
+      "y": 4615.8,
+      "confidence": 0.723,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6193,
+      "sheet": 4,
+      "x": 2571.0,
+      "y": 4364.3,
+      "confidence": 0.702,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6215,
+      "sheet": 4,
+      "x": 2962.1,
+      "y": 4600.7,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6219,
+      "sheet": 4,
+      "x": 3037.9,
+      "y": 4454.0,
+      "confidence": 1.0,
+      "source": "enhanced-tiled-ocr"
+    },
+    {
+      "plot": 6283,
+      "sheet": 5,
+      "x": 4241.8,
+      "y": 5028.7,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6291,
+      "sheet": 5,
+      "x": 3963.6,
+      "y": 5137.8,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6302,
+      "sheet": 5,
+      "x": 3201.8,
+      "y": 5880.4,
+      "confidence": 0.96,
+      "source": "original-hd-sheet5-verified-ocr"
+    },
+    {
+      "plot": 6407,
+      "sheet": 5,
+      "x": 2870.1,
+      "y": 5056.5,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6419,
+      "sheet": 5,
+      "x": 2660.3,
+      "y": 4915.2,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6438,
+      "sheet": 4,
+      "x": 1757.4,
+      "y": 4812.6,
+      "confidence": 1.0,
+      "source": "enhanced-audited"
+    },
+    {
+      "plot": 6442,
+      "sheet": 5,
+      "x": 1958.4,
+      "y": 4979.4,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6447,
+      "sheet": 5,
+      "x": 2024.8,
+      "y": 5088.6,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6448,
+      "sheet": 5,
+      "x": 2178.8,
+      "y": 5065.0,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6450,
+      "sheet": 5,
+      "x": 2281.6,
+      "y": 5104.6,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6456,
+      "sheet": 5,
+      "x": 2454.9,
+      "y": 5276.9,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6469,
+      "sheet": 5,
+      "x": 2326.5,
+      "y": 5287.6,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    },
+    {
+      "plot": 6580,
+      "sheet": 5,
+      "x": 2870.1,
+      "y": 6400.4,
+      "confidence": 1.0,
+      "source": "clear-original-hd-visually-verified-ocr"
+    }
+  ],
+  "audit": "Tiled OCR plus full visual label audit; false readings removed",
+  "alignmentGuides": [
+    {
+      "id": "sh69-north-plot-order",
+      "road": "SH 69",
+      "side": "north",
+      "plotOrder": [
+        450,
+        446,
+        362,
+        528,
+        520,
+        573,
+        4209,
+        4208,
+        4207,
+        4206,
+        4178,
+        4144,
+        2761,
+        2782
+      ],
+      "basis": "landholder-corrected left-to-right order",
+      "geometry": "approximate polyline through verified or user-guided parcel centres"
+    }
+  ],
+  "registration": "Sheet-specific proportional affine transfer, parcel-line correlation verified",
+  "userCorrections": {
+    "plotCount": 46,
+    "plots": [
+      48,
+      49,
+      58,
+      64,
+      74,
+      76,
+      82,
+      560,
+      616,
+      617,
+      618,
+      624,
+      625,
+      671,
+      672,
+      673,
+      676,
+      2619,
+      2641,
+      2643,
+      2673,
+      2685,
+      2686,
+      2769,
+      2785,
+      2800,
+      2801,
+      2802,
+      2803,
+      4206,
+      4207,
+      4208,
+      4209,
+      5844,
+      5845,
+      5864,
+      5879,
+      5881,
+      5882,
+      5891,
+      5892,
+      5908,
+      5909,
+      5910,
+      5912,
+      5917
+    ],
+    "basis": "Landholder topology checked against enhanced parcel linework",
+    "removedMisreads": {
+      "2614": "Sheet 03 OCR misread corrected to Plot 2619",
+      "2636": "Sheet 03 OCR misread corrected to Plot 2686",
+      "3027": "Sheet 03 OCR misread corrected to Plot 2802",
+      "3803": "Sheet 03 OCR misread corrected to Plot 2801"
+    },
+    "coordinateEditorPlots": []
+  }
+}

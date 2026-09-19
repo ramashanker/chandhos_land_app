@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "coordinateSystem": "combined-master-pixels",
+  "plots": {
+    "5906": {
+      "plot": 5906,
+      "sheet": 4,
+      "x": 2099.3,
+      "y": 4606.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5908": {
+      "plot": 5908,
+      "sheet": 4,
+      "x": 1944.9,
+      "y": 4567.5,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5909": {
+      "plot": 5909,
+      "sheet": 4,
+      "x": 1924.9,
+      "y": 4601.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5910": {
+      "plot": 5910,
+      "sheet": 4,
+      "x": 1889.3,
+      "y": 4561.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2615": {
+      "plot": 2615,
+      "sheet": 3,
+      "x": 3848.0,
+      "y": 2523.0,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2769": {
+      "plot": 2769,
+      "sheet": 3,
+      "x": 3675.5,
+      "y": 3048.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2643": {
+      "plot": 2643,
+      "sheet": 3,
+      "x": 3751.7,
+      "y": 2977.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2641": {
+      "plot": 2641,
+      "sheet": 3,
+      "x": 3639.3,
+      "y": 2891.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2893": {
+      "plot": 2893,
+      "sheet": 3,
+      "x": 4282.7,
+      "y": 3110.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2954": {
+      "plot": 2954,
+      "sheet": 3,
+      "x": 4487.7,
+      "y": 3401.5,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5866": {
+      "plot": 5866,
+      "sheet": 4,
+      "x": 2331.7,
+      "y": 4016.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5864": {
+      "plot": 5864,
+      "sheet": 4,
+      "x": 2250.6,
+      "y": 3966.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5812": {
+      "plot": 5812,
+      "sheet": 4,
+      "x": 2460.7,
+      "y": 3839.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5796": {
+      "plot": 5796,
+      "sheet": 4,
+      "x": 2641.7,
+      "y": 3939.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5870": {
+      "plot": 5870,
+      "sheet": 4,
+      "x": 2120.1,
+      "y": 4103.6,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5845": {
+      "plot": 5845,
+      "sheet": 4,
+      "x": 2114.7,
+      "y": 3865.0,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2790": {
+      "plot": 2790,
+      "sheet": 3,
+      "x": 3890.5,
+      "y": 3054.5,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2791": {
+      "plot": 2791,
+      "sheet": 3,
+      "x": 3902.6,
+      "y": 3016.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2792": {
+      "plot": 2792,
+      "sheet": 3,
+      "x": 3944.7,
+      "y": 2999.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5881": {
+      "plot": 5881,
+      "sheet": 4,
+      "x": 2221.3,
+      "y": 4248.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "605": {
+      "plot": 605,
+      "sheet": 1,
+      "x": 2479.4,
+      "y": 2044.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "598": {
+      "plot": 598,
+      "sheet": 1,
+      "x": 2406.2,
+      "y": 2115.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "689": {
+      "plot": 689,
+      "sheet": 1,
+      "x": 2914.4,
+      "y": 2376.3,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5903": {
+      "plot": 5903,
+      "sheet": 4,
+      "x": 2302.9,
+      "y": 4533.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2633": {
+      "plot": 2633,
+      "sheet": 3,
+      "x": 3702.0,
+      "y": 2721.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2634": {
+      "plot": 2634,
+      "sheet": 3,
+      "x": 3747.4,
+      "y": 2670.4,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2623": {
+      "plot": 2623,
+      "sheet": 3,
+      "x": 3813.0,
+      "y": 2726.0,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "2595": {
+      "plot": 2595,
+      "sheet": 3,
+      "x": 4086.2,
+      "y": 2750.9,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "1478": {
+      "plot": 1478,
+      "sheet": 2,
+      "x": 3951.8,
+      "y": 2416.7,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5865": {
+      "plot": 5865,
+      "sheet": 4,
+      "x": 2277.4,
+      "y": 3987.1,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5083": {
+      "plot": 5083,
+      "sheet": 4,
+      "x": 2115.3,
+      "y": 3727.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "5844": {
+      "plot": 5844,
+      "sheet": 4,
+      "x": 2214.7,
+      "y": 3703.8,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "4207": {
+      "plot": 4207,
+      "sheet": 4,
+      "x": 2411.3,
+      "y": 2538.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    },
+    "4208": {
+      "plot": 4208,
+      "sheet": 4,
+      "x": 2341.3,
+      "y": 2543.2,
+      "confidence": 1.0,
+      "source": "in-app-coordinate-editor",
+      "basis": "Saved with the local plot coordinate editor"
+    }
+  }
+}

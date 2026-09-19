@@ -1,0 +1,206 @@
+{
+  "version": 2,
+  "method": "Plot 77 scale-locked similarity transform anchored to the prior SH69/Punpun feature fit",
+  "activeMode": "scale-locked",
+  "imageWidth": 6328,
+  "imageHeight": 6705,
+  "controlPointCount": 9,
+  "excludedControlPointCount": 1,
+  "rmsErrorMetres": 518.07,
+  "maximumErrorMetres": 843.98,
+  "featureFitRmsErrorMetres": 113.36,
+  "featureFitMaximumErrorMetres": 243.57,
+  "centre": {
+    "latitude": 25.30000179,
+    "longitude": 84.86198441
+  },
+  "featureFitCentre": {
+    "latitude": 25.29760715,
+    "longitude": 84.86219956
+  },
+  "webMercatorTransform": {
+    "x": [
+      1.019687182973,
+      0.058856454563,
+      9443369.285663702
+    ],
+    "y": [
+      0.058856454563,
+      -1.019687182973,
+      2915870.5908634625
+    ]
+  },
+  "scaleLockedTransform": {
+    "x": [
+      1.019687182973,
+      0.058856454563,
+      9443369.285663702
+    ],
+    "y": [
+      0.058856454563,
+      -1.019687182973,
+      2915870.5908634625
+    ]
+  },
+  "featureFitTransform": {
+    "x": [
+      0.746261870542,
+      0.058578467548,
+      9444259.285625216
+    ],
+    "y": [
+      0.032411351075,
+      -0.830135357594,
+      2915023.9424689338
+    ]
+  },
+  "scaleLock": {
+    "referencePlot": 77,
+    "referenceAreaDismil": 70,
+    "groundMetresPerNakshaPixel": 0.923431839,
+    "webMercatorMetresPerNakshaPixel": 1.02138437102,
+    "referenceLatitude": 25.2978928,
+    "anchorPixel": {
+      "x": 3250.0,
+      "y": 4920.0
+    },
+    "anchorBasis": "Approximate SH69/Punpun feature junction retained from the road/river fit"
+  },
+  "controls": [
+    {
+      "plot": 110,
+      "sheet": 1,
+      "pixelX": 1731.3,
+      "pixelY": 698.0,
+      "latitude": 25.315378,
+      "longitude": 84.851277,
+      "fittedLatitude": 25.32129806,
+      "fittedLongitude": 84.84745739,
+      "eastErrorMetres": -425.2,
+      "northErrorMetres": 729.05,
+      "errorMetres": 843.98,
+      "featureFitErrorMetres": 32.29
+    },
+    {
+      "plot": 362,
+      "sheet": 1,
+      "pixelX": 1553.3,
+      "pixelY": 1880.7,
+      "latitude": 25.306473,
+      "longitude": 84.850521,
+      "fittedLatitude": 25.3114199,
+      "fittedLongitude": 84.84645222,
+      "eastErrorMetres": -452.93,
+      "northErrorMetres": 609.16,
+      "errorMetres": 759.09,
+      "featureFitErrorMetres": 78.81
+    },
+    {
+      "plot": 475,
+      "sheet": 1,
+      "pixelX": 1584.0,
+      "pixelY": 2110.0,
+      "latitude": 25.305933,
+      "longitude": 84.85055,
+      "fittedLatitude": 25.30953581,
+      "fittedLongitude": 84.84685467,
+      "eastErrorMetres": -411.36,
+      "northErrorMetres": 443.64,
+      "errorMetres": 605.01,
+      "featureFitErrorMetres": 63.56
+    },
+    {
+      "plot": 2824,
+      "sheet": 3,
+      "pixelX": 3838.7,
+      "pixelY": 3456.2,
+      "latitude": 25.29726,
+      "longitude": 84.867231,
+      "fittedLatitude": 25.29946552,
+      "fittedLongitude": 84.86821949,
+      "eastErrorMetres": 110.04,
+      "northErrorMetres": 271.56,
+      "errorMetres": 293.01,
+      "featureFitErrorMetres": 54.89
+    },
+    {
+      "plot": 3827,
+      "sheet": 3,
+      "pixelX": 3425.9,
+      "pixelY": 4232.3,
+      "latitude": 25.291564,
+      "longitude": 84.864548,
+      "fittedLatitude": 25.29284079,
+      "fittedLongitude": 84.86484858,
+      "eastErrorMetres": 33.46,
+      "northErrorMetres": 157.2,
+      "errorMetres": 160.72,
+      "featureFitErrorMetres": 26.48
+    },
+    {
+      "plot": 6174,
+      "sheet": 4,
+      "pixelX": 2222.7,
+      "pixelY": 4735.8,
+      "latitude": 25.288316,
+      "longitude": 84.855135,
+      "fittedLatitude": 25.2880956,
+      "fittedLongitude": 84.85409347,
+      "eastErrorMetres": -115.94,
+      "northErrorMetres": -27.14,
+      "errorMetres": 119.08,
+      "featureFitErrorMetres": 168.65
+    },
+    {
+      "plot": 5902,
+      "sheet": 4,
+      "pixelX": 1701.3,
+      "pixelY": 4557.5,
+      "latitude": 25.289115,
+      "longitude": 84.855216,
+      "fittedLatitude": 25.28932306,
+      "fittedLongitude": 84.84922317,
+      "eastErrorMetres": -667.12,
+      "northErrorMetres": 25.62,
+      "errorMetres": 667.61,
+      "featureFitErrorMetres": 243.57
+    },
+    {
+      "plot": 5900,
+      "sheet": 4,
+      "pixelX": 2354.1,
+      "pixelY": 4504.1,
+      "latitude": 25.2895,
+      "longitude": 84.856388888889,
+      "fittedLatitude": 25.29007739,
+      "fittedLongitude": 84.85517459,
+      "eastErrorMetres": -135.18,
+      "northErrorMetres": 71.09,
+      "errorMetres": 152.73,
+      "featureFitErrorMetres": 111.05
+    },
+    {
+      "plot": 4144,
+      "sheet": 4,
+      "pixelX": 2925.2,
+      "pixelY": 2892.9,
+      "latitude": 25.300493,
+      "longitude": 84.860486,
+      "fittedLatitude": 25.30369372,
+      "fittedLongitude": 84.859554,
+      "eastErrorMetres": -103.75,
+      "northErrorMetres": 394.11,
+      "errorMetres": 407.54,
+      "featureFitErrorMetres": 23.4
+    }
+  ],
+  "excludedControls": [
+    {
+      "plot": 3670,
+      "latitude": 25.294896,
+      "longitude": 84.867512,
+      "reason": "Printed label could not be identified unambiguously"
+    }
+  ],
+  "note": "Scale-locked mode preserves the Plot 77 cadastral scale but cannot perfectly match every approximate GPS, road and river control. Feature-fit mode improves visual coincidence by allowing affine scale/skew. Neither mode is surveyed legal georeferencing."
+}

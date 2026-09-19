@@ -1,0 +1,68 @@
+{
+  "width": 6328,
+  "height": 6705,
+  "sourceScale": 1.07,
+  "source": "docs/original/Chandhos_Paliganj_Naksha_1_HD.pdf through Chandhos_Paliganj_Naksha_5_HD.pdf",
+  "registration": "Exact quarter-scale alpha-silhouette puzzle solution from sheet01.png through sheet05.png; shared boundaries and road intersections close at one common scale; no rotation or local parcel warping",
+  "roadControl": "SH69 continuity and landholder-audited roadside plot order",
+  "sheetTransforms": {
+    "1": {
+      "scale": 1.07,
+      "x": 1126.0,
+      "y": 250.0
+    },
+    "2": {
+      "scale": 1.07,
+      "x": 3244.6,
+      "y": 399.8
+    },
+    "3": {
+      "scale": 1.07,
+      "x": 3214.6,
+      "y": 2445.6
+    },
+    "4": {
+      "scale": 1.07,
+      "x": 351.3,
+      "y": 2424.2
+    },
+    "5": {
+      "scale": 1.07,
+      "x": 1245.8,
+      "y": 4859.6
+    }
+  },
+  "sheetBounds": {
+    "1": {
+      "x": 1126,
+      "y": 250,
+      "width": 2149,
+      "height": 2196
+    },
+    "2": {
+      "x": 3245,
+      "y": 400,
+      "width": 2731,
+      "height": 2089
+    },
+    "3": {
+      "x": 3215,
+      "y": 2446,
+      "width": 2731,
+      "height": 2457
+    },
+    "4": {
+      "x": 351,
+      "y": 2424,
+      "width": 2898,
+      "height": 2470
+    },
+    "5": {
+      "x": 1246,
+      "y": 4860,
+      "width": 3266,
+      "height": 1845
+    }
+  },
+  "outputPdf": "docs/enhanced/Chandhaus_Cadastral_Map_Original_Aligned.pdf"
+}

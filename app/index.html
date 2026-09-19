@@ -1,0 +1,308 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#16261f" />
+    <title>Chandhaus Naksha Desk</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">चं</div>
+        <div>
+          <h1>Chandhaus Naksha Desk</h1>
+          <p>Local cadastral map viewer and measurement workspace</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <span class="offline-pill">Works locally</span>
+        <a
+          id="downloadOverallPdf"
+          class="button primary"
+          href="../docs/enhanced/Chandhaus_Cadastral_Map_Original_Aligned.pdf"
+          download="Chandhaus_Cadastral_Map_Original_Aligned.pdf"
+          title="Download the complete aligned Chandhaus cadastral map as a PDF"
+        >Download Overall PDF</a>
+        <a id="openPdf" class="button secondary" target="_blank" rel="noopener">Open source PDF</a>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <aside class="sidebar left-panel">
+        <section>
+          <div class="section-heading">
+            <span class="eyebrow">Map sheets</span>
+            <span id="sheetCount">Overall + 5 sheets</span>
+          </div>
+          <div id="sheetList" class="sheet-list" aria-label="Map sheets"></div>
+        </section>
+
+        <section class="details-card">
+          <span class="eyebrow">Verified map details</span>
+          <dl>
+            <div><dt>District</dt><dd>28 PATNA</dd></div>
+            <div><dt>Subdivision</dt><dd>05</dd></div>
+            <div><dt>Circle</dt><dd>15 Paliganj</dd></div>
+            <div><dt>Mauza</dt><dd>1063 Chandhaus (280)</dd></div>
+            <div><dt>Survey</dt><dd>Cadastral · CS Map</dd></div>
+            <div><dt>Current sheet</dt><dd id="detailSheet">01</dd></div>
+          </dl>
+        </section>
+
+        <section class="help-card">
+          <span class="eyebrow">Quick method</span>
+          <ol>
+            <li>Zoom to a clearly known boundary length.</li>
+            <li>Select <strong>Calibrate</strong> and click its two endpoints.</li>
+            <li>Enter the real length and unit.</li>
+            <li>Use <strong>Distance</strong> or <strong>Area</strong> to trace the map.</li>
+          </ol>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <div class="toolbar" role="toolbar" aria-label="Map tools">
+          <div class="tool-group">
+            <button class="tool active" data-tool="pan" title="Pan (Esc)">
+              <span aria-hidden="true">✥</span> Pan
+            </button>
+            <button class="tool" data-tool="calibrate" title="Set map scale from a known length">
+              <span aria-hidden="true">↔</span> Calibrate
+            </button>
+            <button class="tool" data-tool="distance" title="Measure a line">
+              <span aria-hidden="true">╱</span> Distance
+            </button>
+            <button class="tool" data-tool="area" title="Trace a polygon">
+              <span aria-hidden="true">⬠</span> Area
+            </button>
+            <button id="snapToLines" class="tool active" aria-pressed="true" title="Align clicked points to nearby printed boundaries">
+              <span aria-hidden="true">⌖</span> Boundary snap
+            </button>
+            <button id="toggleSchedule" class="tool schedule-toggle" aria-pressed="false" title="Show Final_Schedule.csv colours on the overall naksha">
+              <span aria-hidden="true">▧</span> Display schedule
+            </button>
+            <button id="togglePlotLabels" class="tool active" aria-pressed="true" title="Show verified plot numbers and the approximate SH69 north-side alignment guide">
+              <span aria-hidden="true">123</span> Clear numbers
+            </button>
+          </div>
+          <div class="tool-group zoom-tools">
+            <button id="zoomOut" class="icon-button" aria-label="Zoom out">−</button>
+            <span id="zoomValue" class="zoom-value">100%</span>
+            <button id="zoomIn" class="icon-button" aria-label="Zoom in">+</button>
+          </div>
+          <div class="tool-group history-tools">
+            <button id="undo" class="tool compact">Undo</button>
+            <button id="clear" class="tool compact danger">Clear</button>
+          </div>
+          <div class="view-switch" aria-label="Viewer layout">
+            <button data-view="naksha">Naksha</button>
+            <button data-view="split" class="active">Split</button>
+            <button data-view="map">Actual map</button>
+          </div>
+        </div>
+
+        <div id="viewerGrid" class="viewer-grid" data-view="split">
+          <div id="mapViewport" class="map-viewport" tabindex="0">
+            <div id="mapWorld" class="map-world">
+              <img id="mapImage" alt="Chandhaus cadastral map sheet" draggable="false" />
+              <img id="scheduleOverlay" class="schedule-overlay hidden" src="assets/Final_Schedule_Overlay.png" alt="Final schedule parcel colours" draggable="false" />
+              <img id="plotLabels" class="plot-labels" src="assets/plot-labels.svg" alt="Clear indexed plot numbers with an approximate dashed SH69 alignment guide" draggable="false" />
+              <svg id="overlay" xmlns="http://www.w3.org/2000/svg" aria-label="Measurement overlay"></svg>
+            </div>
+            <div id="scheduleLegend" class="schedule-legend hidden" aria-live="polite">
+              <div class="schedule-legend-title"><strong>Final Schedule</strong><span id="scheduleCoverage">Loading…</span></div>
+              <div class="schedule-key"><i class="schedule-a"></i><span>A</span><i class="schedule-b"></i><span>B</span><i class="schedule-joint"></i><span>Joint shares</span></div>
+              <small>Transparent planning overlay · verified indexed plots only</small>
+            </div>
+            <div id="clickedPlotInfo" class="clicked-plot-info hidden" role="status" aria-live="polite"></div>
+            <div class="north-indicator" title="Standard north-up portal orientation">
+              <span>N</span><i></i>
+            </div>
+            <div id="modeHint" class="mode-hint">Click to identify a plot · Drag to move · Mouse wheel or +/− to zoom</div>
+            <div id="loading" class="loading">Loading high-resolution sheet…</div>
+          </div>
+
+          <section id="geoPanel" class="geo-panel" aria-label="Actual geographic map">
+            <header class="geo-header">
+              <div>
+                <span class="eyebrow">Geographic context</span>
+                <strong id="geoTitle">Sheet 01 area</strong>
+              </div>
+              <div class="geo-header-actions">
+                <button id="linkZoom" class="link-zoom active" aria-pressed="true" title="Keep naksha and actual map zoom synchronized">↔ Linked zoom</button>
+                <div class="basemap-switch" aria-label="Actual map style">
+                  <button data-basemap="hybrid" class="active">Hybrid</button>
+                  <button data-basemap="streets">Streets</button>
+                  <button data-basemap="topo">Topo</button>
+                </div>
+                <span class="online-badge">Internet map</span>
+              </div>
+            </header>
+            <div id="geoViewport" class="geo-viewport" tabindex="0">
+              <div id="geoTiles" class="geo-tiles"></div>
+              <img id="boundaryOverlay" class="boundary-overlay" alt="Approximate selected naksha boundary" draggable="false" />
+              <div id="sheetMarker" class="sheet-marker">
+                <span></span>
+                <strong id="markerLabel">Sheet 01 reference</strong>
+              </div>
+              <div class="geo-controls">
+                <button id="geoZoomIn" aria-label="Zoom actual map in">+</button>
+                <button id="geoZoomOut" aria-label="Zoom actual map out">−</button>
+                <button id="geoReset" aria-label="Reset actual map">⌖</button>
+              </div>
+              <div class="boundary-controls" aria-label="Approximate naksha overlay controls">
+                <div class="boundary-control-row">
+                  <button id="toggleBoundary" class="active">Naksha overlay on</button>
+                  <button id="alignmentMode" class="active" title="Use the Plot 77 measurement scale for the cadastral overlay">Scale locked</button>
+                  <button id="adjustBoundary">Drag</button>
+                  <button id="boundarySmaller" title="Make selected overlay smaller">− size</button>
+                  <button id="boundaryLarger" title="Make selected overlay larger">+ size</button>
+                  <button id="boundaryRotate" title="Rotate selected overlay clockwise">↻</button>
+                  <label title="Selected overlay opacity"><span>Opacity</span><input id="boundaryOpacity" type="range" min="10" max="85" value="42" /></label>
+                  <button id="boundaryReset" title="Reset selected overlay placement">Reset</button>
+                </div>
+                <div class="boundary-control-row boundary-position-row" aria-label="Move selected naksha overlay">
+                  <span class="position-label">Position</span>
+                  <button id="boundaryLeft" title="Move selected overlay left by 10 metres; Shift-click for 50">←</button>
+                  <button id="boundaryUp" title="Move selected overlay up by 10 metres; Shift-click for 50">↑</button>
+                  <button id="boundaryDown" title="Move selected overlay down by 10 metres; Shift-click for 50">↓</button>
+                  <button id="boundaryRight" title="Move selected overlay right by 10 metres; Shift-click for 50">→</button>
+                  <button id="boundarySave" class="boundary-save" title="Save this overlay placement in this browser">Save position</button>
+                  <span id="boundarySaveStatus" class="boundary-save-status" role="status" aria-live="polite">Saved locally</span>
+                </div>
+              </div>
+              <div id="geoAttribution" class="geo-attribution"></div>
+            </div>
+            <footer class="geo-footer">
+              <div>
+                <span id="geoCoordinates">25.304727, 84.861813</span>
+                <small id="geoReferenceNote">GPS-fitted Chandhaus map centre</small>
+                <small id="geoScale">Geographic zoom 15.0</small>
+              </div>
+              <a id="openGoogleMap" class="button primary" target="_blank" rel="noopener">Open Google Maps</a>
+            </footer>
+            <div class="alignment-note">
+              Scale-locked mode preserves Plot 77 = 70 dismil and anchors the overlay near the SH69/Punpun junction. Feature-fit mode follows roads and river more closely but changes scale/skew. Neither mode is a surveyed legal parcel overlay.
+            </div>
+          </section>
+        </div>
+
+        <div class="statusbar">
+          <span id="cursorPosition">Position: —</span>
+          <span>Zoom: mouse wheel or +/−</span>
+          <span>Drag: move map</span>
+          <span id="imageResolution">Resolution: —</span>
+          <span id="syncStatus">Linked zoom · calibrate for matched ground scale</span>
+        </div>
+      </section>
+
+      <aside class="sidebar right-panel">
+        <section class="coordinate-editor-panel">
+          <div class="section-heading">
+            <span class="eyebrow">Plot coordinate editor</span>
+            <span id="coordinateEditorBadge" class="badge">Ready</span>
+          </div>
+          <div class="coordinate-load-row">
+            <label>
+              <span>Plot number</span>
+              <input id="coordinatePlot" type="number" min="1" max="7000" inputmode="numeric" placeholder="e.g. 5912" />
+            </label>
+            <button id="coordinateLoad" class="button primary">Load / add</button>
+          </div>
+          <div class="coordinate-fields">
+            <label><span>Sheet</span><select id="coordinateSheet" disabled>
+              <option value="1">01</option><option value="2">02</option><option value="3">03</option>
+              <option value="4">04</option><option value="5">05</option>
+            </select></label>
+            <label><span>X</span><input id="coordinateX" type="number" min="0" step="0.1" disabled /></label>
+            <label><span>Y</span><input id="coordinateY" type="number" min="0" step="0.1" disabled /></label>
+          </div>
+          <button id="coordinatePick" class="button coordinate-pick" disabled>Place by clicking map</button>
+          <div class="coordinate-nudge-row">
+            <div class="coordinate-pad" aria-label="Move plot label">
+              <button id="coordinateUp" title="Move label up" disabled>↑</button>
+              <button id="coordinateLeft" title="Move label left" disabled>←</button>
+              <button id="coordinateDown" title="Move label down" disabled>↓</button>
+              <button id="coordinateRight" title="Move label right" disabled>→</button>
+            </div>
+            <label class="coordinate-step"><span>Move by</span><select id="coordinateStep">
+              <option value="1">1 px</option><option value="5">5 px</option>
+              <option value="10" selected>10 px</option><option value="25">25 px</option>
+            </select></label>
+          </div>
+          <div class="coordinate-actions">
+            <button id="coordinateSave" class="button primary" disabled>Save position</button>
+            <button id="coordinateRevert" class="button ghost" disabled>Revert</button>
+          </div>
+          <p id="coordinateStatus" class="coordinate-status">Load an existing plot or enter a new number. Click the map or use the arrows, then save.</p>
+        </section>
+
+        <section class="measurement-panel">
+          <div class="section-heading">
+            <span class="eyebrow">Measurement</span>
+            <span id="calibrationBadge" class="badge warning">Not calibrated</span>
+          </div>
+
+          <button id="usePlot54Scale" class="button benchmark-button" disabled>Use Plot 77 · 70 dismil scale</button>
+
+          <div id="calibrationForm" class="calibration-form hidden">
+            <label for="knownLength">Known real-world length</label>
+            <div class="input-row">
+              <input id="knownLength" type="number" min="0" step="any" placeholder="e.g. 25" />
+              <select id="lengthUnit">
+                <option value="m">metres</option>
+                <option value="ft">feet</option>
+                <option value="yd">yards</option>
+              </select>
+            </div>
+            <div class="form-actions">
+              <button id="applyCalibration" class="button primary">Apply scale</button>
+              <button id="cancelCalibration" class="button ghost">Cancel</button>
+            </div>
+          </div>
+
+          <div id="emptyResults" class="empty-state">
+            <div class="empty-icon">⌁</div>
+            <p>Calibrate the sheet, then draw a distance or parcel boundary.</p>
+          </div>
+
+          <div id="results" class="results hidden">
+            <div class="result-primary">
+              <span id="resultType">Distance</span>
+              <strong id="resultMain">—</strong>
+            </div>
+            <div id="resultGrid" class="result-grid"></div>
+            <div id="measurementDetails" class="measurement-details"></div>
+          </div>
+
+          <button id="finishArea" class="button primary full hidden">Finish area</button>
+          <p class="accuracy-note">
+            Calculations depend on your calibration. They are for understanding and planning,
+            not legal demarcation.
+          </p>
+          <p class="conversion-note">1 acre = 100 dismil · 1 dismil = 435.6 ft² = 40.468564224 m²</p>
+        </section>
+
+        <section class="records-panel">
+          <div class="section-heading">
+          <span class="eyebrow">Final plot schedule</span>
+            <span id="recordCount">Loading…</span>
+          </div>
+          <div class="plot-search-row">
+            <label class="search-box">
+              <span aria-hidden="true">⌕</span>
+              <input id="recordSearch" type="search" inputmode="numeric" placeholder="Khasra, khata or location" />
+            </label>
+            <button id="locatePlot" class="button primary">Locate</button>
+          </div>
+          <p id="plotLocatorStatus" class="plot-locator-status">Enter a khasra number or click a record to locate its source sheet in the combined naksha.</p>
+          <div id="recordList" class="record-list"></div>
+        </section>
+      </aside>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
