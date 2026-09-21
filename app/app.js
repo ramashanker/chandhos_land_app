@@ -1,12 +1,27 @@
 "use strict";
 
+const EMBEDDED = window.CHANDHAUS_EMBEDDED || null;
+const LOCAL_COORDINATES_KEY = "chandhaus-standalone-plot-coordinates-v1";
+
+function assetUrl(path, cacheVersion = "") {
+  if (EMBEDDED?.assets?.[path]) return EMBEDDED.assets[path];
+  return cacheVersion ? `${path}?v=${encodeURIComponent(cacheVersion)}` : path;
+}
+
+async function loadJsonAsset(path, cacheVersion = "") {
+  if (EMBEDDED?.json?.[path]) return EMBEDDED.json[path];
+  const response = await fetch(assetUrl(path, cacheVersion), { cache: "no-store" });
+  if (!response.ok) throw new Error(`${path} unavailable`);
+  return response.json();
+}
+
 const INDIVIDUAL_SHEETS = [1, 2, 3, 4, 5].map((number) => ({
   number,
   id: `sheet-${number}`,
   label: String(number).padStart(2, "0"),
-  image: `assets/BhuNaksha_Chandhos${number}_HD.png`,
-  boundary: `assets/BhuNaksha_Chandhos${number}_Boundary.png`,
-  pdf: `../docs/original/Chandhos_Paliganj_Naksha_${number}_HD.pdf`,
+  image: assetUrl(`assets/BhuNaksha_Chandhos${number}_HD.png`),
+  boundary: assetUrl(`assets/BhuNaksha_Chandhos${number}_Boundary.png`),
+  pdf: assetUrl(`../docs/original/Chandhos_Paliganj_Naksha_${number}_HD.pdf`),
   projectedReference: [
     [285424.45557, 2801924.31651],
     [285552.98542, 2801817.85209],
@@ -30,9 +45,9 @@ const SHEETS = [
     label: "ALL",
     title: "Overall village",
     isOverall: true,
-    image: "assets/BhuNaksha_Chandhos_Combined.png",
-    boundary: "assets/BhuNaksha_Chandhos_Combined_GeoOverlay.png",
-    pdf: "../docs/enhanced/Chandhaus_Cadastral_Map_Original_Aligned.pdf",
+    image: assetUrl("assets/BhuNaksha_Chandhos_Combined.png"),
+    boundary: assetUrl("assets/BhuNaksha_Chandhos_Combined_GeoOverlay.png"),
+    pdf: assetUrl("../docs/enhanced/Chandhaus_Cadastral_Map_Original_Aligned.pdf"),
     geographicReference: [25.297660, 84.859500],
   },
   ...INDIVIDUAL_SHEETS,
@@ -54,6 +69,7 @@ const WEB_MERCATOR_RADIUS = 6378137;
 const elements = {
   sheetList: document.querySelector("#sheetList"),
   detailSheet: document.querySelector("#detailSheet"),
+  downloadOverallPdf: document.querySelector("#downloadOverallPdf"),
   openPdf: document.querySelector("#openPdf"),
   viewport: document.querySelector("#mapViewport"),
   world: document.querySelector("#mapWorld"),
@@ -126,6 +142,10 @@ const elements = {
   boundaryOpacity: document.querySelector("#boundaryOpacity"),
   boundarySaveStatus: document.querySelector("#boundarySaveStatus"),
 };
+
+elements.downloadOverallPdf.href = assetUrl("../docs/enhanced/Chandhaus_Cadastral_Map_Original_Aligned.pdf");
+elements.scheduleOverlay.src = assetUrl("assets/Final_Schedule_Overlay.png");
+elements.plotLabels.src = assetUrl("assets/plot-labels.svg");
 
 const persisted = loadPersistedState();
 const app = {
@@ -1130,13 +1150,10 @@ function clamp(value, min, max) {
 
 async function loadRecords(cacheVersion = "") {
   try {
-    const suffix = cacheVersion ? `?v=${encodeURIComponent(cacheVersion)}` : "";
-    const response = await fetch(`assets/final-schedule-map.json${suffix}`, { cache: "no-store" });
-    if (!response.ok) throw new Error("Final schedule unavailable");
-    app.scheduleData = await response.json();
+    app.scheduleData = await loadJsonAsset("assets/final-schedule-map.json", cacheVersion);
     app.records = app.scheduleData.plots;
     const overlayVersion = cacheVersion || String(Date.now());
-    elements.scheduleOverlay.src = `assets/Final_Schedule_Overlay.png?v=${encodeURIComponent(overlayVersion)}`;
+    elements.scheduleOverlay.src = assetUrl("assets/Final_Schedule_Overlay.png", overlayVersion);
     elements.scheduleCoverage.textContent = `${app.scheduleData.mappedPlots} of ${app.scheduleData.uniquePlots} plots mapped`;
     elements.usePlot54Scale.disabled = !app.scheduleData.benchmark;
     applyAreaBenchmark(false);
@@ -1374,6 +1391,33 @@ async function saveCoordinateEditor() {
   setCoordinateEditorEnabled(true);
   elements.coordinateEditorBadge.textContent = "Saving…";
   coordinateEditorStatus("Saving the coordinate to the local project…");
+  if (EMBEDDED) {
+    const saved = JSON.parse(localStorage.getItem(LOCAL_COORDINATES_KEY) || "{}");
+    const localItem = {
+      ...item,
+      confidence: 1,
+      source: "standalone-browser-coordinate-editor",
+      basis: "Saved in this browser by the standalone plot coordinate editor",
+    };
+    saved[String(item.plot)] = localItem;
+    localStorage.setItem(LOCAL_COORDINATES_KEY, JSON.stringify(saved));
+    app.plotIndex.set(item.plot, localItem);
+    app.coordinateEditor.original = { ...localItem };
+    app.coordinateEditor.dirty = false;
+    app.coordinateEditor.saving = false;
+    app.plotFocus = { ...localItem, exact: true };
+    elements.coordinateEditorBadge.textContent = "Saved locally";
+    elements.coordinateEditorBadge.className = "badge saved";
+    setCoordinateEditorEnabled(true);
+    coordinateEditorStatus(
+      `Plot ${item.plot} saved in this browser at X ${item.x.toFixed(1)}, Y ${item.y.toFixed(1)} on Sheet ${item.sheet}. The embedded source file is unchanged.`,
+      "success",
+    );
+    elements.plotLocatorStatus.textContent = `Plot ${item.plot} is saved and searchable in this browser.`;
+    elements.plotLocatorStatus.classList.remove("warning");
+    renderOverlay();
+    return;
+  }
   try {
     const response = await fetch("/api/plot-coordinate", {
       method: "POST",
@@ -1387,8 +1431,8 @@ async function saveCoordinateEditor() {
     app.coordinateEditor.dirty = false;
     app.coordinateEditor.saving = false;
     const assetVersion = Date.now();
-    elements.plotLabels.src = `assets/plot-labels.svg?v=${assetVersion}`;
-    elements.scheduleOverlay.src = `assets/Final_Schedule_Overlay.png?v=${assetVersion}`;
+    elements.plotLabels.src = assetUrl("assets/plot-labels.svg", assetVersion);
+    elements.scheduleOverlay.src = assetUrl("assets/Final_Schedule_Overlay.png", assetVersion);
     await loadRecords(String(assetVersion));
     if (result.georeference?.updated) {
       await loadGeoreference(String(assetVersion));
@@ -1463,10 +1507,16 @@ function locatePlot(value) {
 
 async function loadPlotIndex() {
   try {
-    const response = await fetch("assets/plot-index.json");
-    if (!response.ok) throw new Error("Plot index unavailable");
-    const data = await response.json();
+    const data = await loadJsonAsset("assets/plot-index.json");
     app.plotIndex = new Map(data.plots.map((item) => [Number(item.plot), item]));
+    if (EMBEDDED) {
+      try {
+        const saved = JSON.parse(localStorage.getItem(LOCAL_COORDINATES_KEY) || "{}");
+        Object.values(saved).forEach((item) => app.plotIndex.set(Number(item.plot), item));
+      } catch {
+        localStorage.removeItem(LOCAL_COORDINATES_KEY);
+      }
+    }
     app.combinedImageWidth = Number(data.imageWidth) || app.combinedImageWidth;
     app.combinedImageHeight = Number(data.imageHeight) || app.combinedImageHeight;
     elements.plotLocatorStatus.textContent = `${data.count} OCR-verified or manually audited plot labels are searchable by exact position. Other numbers fall back to their source sheet.`;
@@ -1482,10 +1532,7 @@ async function loadPlotIndex() {
 
 async function loadGeoreference(cacheVersion = "") {
   try {
-    const suffix = cacheVersion ? `?v=${encodeURIComponent(cacheVersion)}` : "";
-    const response = await fetch(`assets/naksha-georeference.json${suffix}`, { cache: "no-store" });
-    if (!response.ok) throw new Error("Georeference unavailable");
-    app.georeference = await response.json();
+    app.georeference = await loadJsonAsset("assets/naksha-georeference.json", cacheVersion);
     const overallBoundary = sheetState(0).boundary;
     if (overallBoundary.georeferenceVersion !== app.georeference.version) {
       Object.assign(overallBoundary, {

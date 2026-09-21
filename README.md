@@ -63,6 +63,23 @@ No package installation or internet connection is required.
 The cadastral viewer and measurements work offline. The side-by-side geographic map needs an
 internet connection to load OpenStreetMap tiles.
 
+## Share as one HTML file
+
+`Chandhaus_Naksha_Desk_Standalone.html` is a self-contained version of the app. Send that one file
+to a reviewer, who can download it and open it directly in a current Chrome, Edge, or Firefox
+browser. It embeds the map sheets, overlays, plot/schedule data, and source PDFs. Only the optional
+satellite/street/topographic background tiles and Google Maps shortcut require internet access.
+
+The standalone coordinate editor saves changes only in that reviewer's browser; it cannot rewrite
+the HTML file. Use the normal `python3 run_app.py` version when coordinate edits must be written back
+to the project.
+
+Rebuild the standalone file after changing app code or assets:
+
+```bash
+python3 tools/build_standalone_html.py
+```
+
 The generated one-page source is available at
 `docs/enhanced/Chandhaus_Cadastral_Map_Original_Aligned.pdf`. The exact puzzle translations are
 solved from the complementary alpha silhouettes in `sheet01.png` through `sheet05.png`, then applied
